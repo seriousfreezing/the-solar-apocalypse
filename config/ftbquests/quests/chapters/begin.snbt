@@ -1,0 +1,771 @@
+{
+	id: "2ED40C62AB0EF679"
+	group: ""
+	order_index: 0
+	filename: "begin"
+	title: "The Solar Apocalypse"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "A new world!"
+			x: 0.0d
+			y: 0.0d
+			description: ["The beginning of everything."]
+			dependencies: ["394B1042E4FBFA62"]
+			dependency_requirement: "all_started"
+			id: "738E286B4CC8694B"
+			tasks: [{
+				id: "60E16925E9855A95"
+				type: "item"
+				title: "Any #minecraft:logs"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "minecraft:logs"
+					}
+				}
+				count: 8L
+			}]
+			rewards: [{
+				id: "713B340B0BC83BC9"
+				type: "item"
+				item: "minecraft:bread"
+				count: 16
+			}]
+		}
+		{
+			title: "Infinite Water!"
+			x: 1.0d
+			y: 1.5d
+			subtitle: "Not everything is as it has always been."
+			dependencies: ["738E286B4CC8694B"]
+			id: "7B8B8A5D61CDE380"
+			tasks: [
+				{
+					id: "75044EFE586A410C"
+					type: "item"
+					item: "minecraft:kelp"
+					count: 8L
+				}
+				{
+					id: "374D58D129BFCC49"
+					type: "item"
+					item: "minecraft:water_bucket"
+				}
+			]
+			rewards: [{
+				id: "6842823FC817438D"
+				type: "item"
+				item: "minecraft:coal"
+				count: 8
+			}]
+		}
+		{
+			title: "A pair of each animal!"
+			x: -3.5d
+			y: 4.5d
+			subtitle: "There is space for everyone!"
+			dependencies: ["7238123EF548324E"]
+			id: "50A9A574A6F2259D"
+			tasks: [{
+				id: "1C272723EBE8C977"
+				type: "advancement"
+				advancement: "minecraft:husbandry/bred_all_animals"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "64249AD783E452BB"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+		}
+		{
+			title: "A new hell!"
+			x: 3.0d
+			y: 3.0d
+			id: "639294F61FA79D6F"
+			tasks: [{
+				id: "2848DA48645A8EE4"
+				type: "dimension"
+				dimension: "minecraft:the_nether"
+			}]
+			rewards: [{
+				id: "43DCB1133825485A"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+		}
+		{
+			title: "A new and unknown dimension!"
+			x: 4.5d
+			y: 1.5d
+			dependencies: ["1CFB946A30DD976B"]
+			id: "615097C1436F7781"
+			tasks: [{
+				id: "18A4F05D4C50CEDE"
+				type: "dimension"
+				dimension: "minecraft:the_end"
+			}]
+			rewards: [{
+				id: "7B20D2555F6A3608"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+		}
+		{
+			title: "Where are all the villagers..?"
+			x: -2.0d
+			y: 0.0d
+			description: ["Are the villagers still alive?"]
+			dependencies: ["738E286B4CC8694B"]
+			id: "0AA639D368C9F33D"
+			tasks: [{
+				id: "35EA4D2F7134429C"
+				type: "structure"
+				structure: "stoneholm:underground_village"
+			}]
+			rewards: [{
+				id: "2C8D34F21AD7D883"
+				type: "item"
+				item: "minecraft:emerald"
+				count: 4
+			}]
+		}
+		{
+			title: "The Cultivator!"
+			x: -0.5d
+			y: 3.0d
+			description: ["Does it have room to fit all these crops?"]
+			dependencies: ["57BEF617A5ABB4F7"]
+			id: "234C28E5FE54FBD1"
+			tasks: [
+				{
+					id: "1D169FB69B086A79"
+					type: "item"
+					item: "minecraft:wheat_seeds"
+				}
+				{
+					id: "395717888C7A6288"
+					type: "item"
+					item: "minecraft:pumpkin_seeds"
+				}
+				{
+					id: "0161C3EBE1AF7AC4"
+					type: "item"
+					item: "minecraft:melon_seeds"
+				}
+				{
+					id: "4F3FD066F741ED82"
+					type: "item"
+					item: "minecraft:carrot"
+				}
+				{
+					id: "74AB73F9E3BE94FB"
+					type: "item"
+					item: "minecraft:cocoa_beans"
+				}
+				{
+					id: "74DA6F1A3454AB8C"
+					type: "item"
+					item: "minecraft:beetroot_seeds"
+				}
+				{
+					id: "3C7B1002F55586EA"
+					type: "item"
+					item: "minecraft:potato"
+				}
+				{
+					id: "7C1BCA8B7A4A09DA"
+					type: "item"
+					item: "minecraft:bamboo"
+				}
+				{
+					id: "600F500E8CBA2689"
+					type: "item"
+					item: "minecraft:sugar_cane"
+				}
+			]
+			rewards: [{
+				id: "6B8BDD8DA44ECA56"
+				type: "item"
+				item: "minecraft:diamond"
+				count: 4
+			}]
+		}
+		{
+			title: "The Lumberjack!"
+			x: -2.0d
+			y: 3.0d
+			description: ["It shouldn't be too hard to find all the saplings."]
+			dependencies: ["57BEF617A5ABB4F7"]
+			id: "1AC196172631FBE3"
+			tasks: [
+				{
+					id: "0F29D90EC78C3367"
+					type: "item"
+					item: "minecraft:oak_sapling"
+				}
+				{
+					id: "557BF0AD1627B062"
+					type: "item"
+					item: "minecraft:spruce_sapling"
+				}
+				{
+					id: "5ECA9BE9B8F58899"
+					type: "item"
+					item: "minecraft:birch_sapling"
+				}
+				{
+					id: "626B0B8740352205"
+					type: "item"
+					item: "minecraft:jungle_sapling"
+				}
+				{
+					id: "19C022DC60C876F9"
+					type: "item"
+					item: "minecraft:acacia_sapling"
+				}
+				{
+					id: "05B1A61248898C52"
+					type: "item"
+					item: "minecraft:dark_oak_sapling"
+				}
+			]
+			rewards: [{
+				id: "6E0E451EA0DC33F8"
+				type: "item"
+				item: "minecraft:diamond"
+				count: 4
+			}]
+		}
+		{
+			title: "Kill the Dragon Ender!"
+			x: 6.0d
+			y: 1.5d
+			subtitle: "The king of the purple dimension.."
+			dependencies: ["615097C1436F7781"]
+			id: "7A9703C9EC00D153"
+			tasks: [{
+				id: "5CC896469AB8CCB7"
+				type: "kill"
+				entity: "minecraft:ender_dragon"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "53F615E89128D549"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+				{
+					id: "41EB9D95B913562F"
+					type: "item"
+					item: "minecraft:ender_pearl"
+					count: 8
+				}
+			]
+		}
+		{
+			title: "The end of a dimension!"
+			x: 9.0d
+			y: 1.5d
+			subtitle: "Ready to become a flying non-ender dragon?"
+			dependencies: ["6DDC991725C50DC0"]
+			id: "3AF17A017C943214"
+			tasks: [
+				{
+					id: "75BD22E43BA48C73"
+					type: "item"
+					item: {
+						id: "minecraft:elytra"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "2F241FB66D41FC4D"
+					type: "item"
+					item: "minecraft:dragon_head"
+				}
+				{
+					id: "01551E016D570D83"
+					type: "item"
+					item: "minecraft:shulker_shell"
+					count: 8L
+				}
+			]
+			rewards: [
+				{
+					id: "2F5ADF5224BBF729"
+					type: "xp_levels"
+					xp_levels: 15
+				}
+				{
+					id: "1D8037C034FA1914"
+					type: "item"
+					item: "minecraft:firework_rocket"
+					count: 16
+				}
+			]
+		}
+		{
+			title: "Super powers!"
+			x: 0.0d
+			y: -3.5d
+			description: ["Can you be the Iron Man?"]
+			optional: true
+			id: "0110409009E4779E"
+			tasks: [{
+				id: "1F0970D4D8E0129C"
+				type: "item"
+				title: "Any #artifacts:artifacts"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "artifacts:artifacts"
+					}
+				}
+			}]
+			rewards: [{
+				id: "1DE6B7479908D2CE"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+		}
+		{
+			title: "Inventory Expansion!"
+			x: -2.0d
+			y: 1.5d
+			description: ["More space means a lot more fun and items!"]
+			dependencies: ["738E286B4CC8694B"]
+			id: "57BEF617A5ABB4F7"
+			tasks: [{
+				id: "1BF409B0D7F5E623"
+				type: "item"
+				title: "Any #travelersbackpack:custom_travelers_backpack"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "travelersbackpack:custom_travelers_backpack"
+					}
+				}
+			}]
+			rewards: [{
+				id: "5646168BCF14BBE6"
+				type: "item"
+				item: "travelersbackpack:hose"
+			}]
+		}
+		{
+			title: "Canteen of Water!"
+			x: 1.0d
+			y: 3.0d
+			description: ["The only good way to carry water."]
+			dependencies: ["7B8B8A5D61CDE380"]
+			id: "1F4956C5249A9B3E"
+			tasks: [{
+				id: "20DCA88343E7B687"
+				type: "item"
+				item: "dehydration:leather_flask"
+			}]
+			rewards: [{
+				id: "69888C8D26019278"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+		}
+		{
+			title: "Treatment of Drinking Water!"
+			x: 1.0d
+			y: 4.5d
+			description: ["A great source for drinking water."]
+			dependencies: ["1F4956C5249A9B3E"]
+			id: "04D0379092EE50C9"
+			tasks: [
+				{
+					id: "23489BE12623E654"
+					type: "item"
+					item: "dehydration:campfire_cauldron"
+				}
+				{
+					id: "403D88187CD61387"
+					type: "item"
+					item: "minecraft:campfire"
+				}
+			]
+			rewards: [{
+				id: "71C544479E5DB32B"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+		}
+		{
+			title: "Dungeon of Skeleton!"
+			x: 1.5d
+			y: -3.5d
+			optional: true
+			id: "78E7E2D8DA905886"
+			tasks: [{
+				id: "014757D941893C55"
+				type: "structure"
+				structure: "betterdungeons:skeleton_dungeon"
+			}]
+			rewards: [{
+				id: "02DD904471999C79"
+				type: "item"
+				item: "minecraft:bone"
+				count: 8
+			}]
+		}
+		{
+			title: "Tiny Dungeon!"
+			x: -1.0d
+			y: -4.5d
+			dependency_requirement: "all_started"
+			optional: true
+			id: "61869FDF0ABB310C"
+			tasks: [{
+				id: "5309BEF24133F3D6"
+				type: "structure"
+				structure: "betterdungeons:small_dungeon"
+			}]
+			rewards: [{
+				id: "6B70B2123D6D3354"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+		}
+		{
+			title: "Dungeon of Spider!"
+			x: 1.0d
+			y: -4.5d
+			optional: true
+			id: "3C878C1F3BC041A7"
+			tasks: [{
+				id: "280B9D33135BC69D"
+				type: "structure"
+				structure: "betterdungeons:spider_dungeon"
+			}]
+			rewards: [{
+				id: "03DEDE2D2654C790"
+				type: "item"
+				item: "minecraft:string"
+				count: 8
+			}]
+		}
+		{
+			title: "Dungeon of Zombies!"
+			x: 0.0d
+			y: -5.5d
+			optional: true
+			id: "7A3B9FCA15CA8159"
+			tasks: [{
+				id: "3C91C4BBCC4D4591"
+				type: "structure"
+				structure: "betterdungeons:zombie_dungeon"
+			}]
+			rewards: [{
+				id: "4C704B4A4D140B3E"
+				type: "item"
+				item: "minecraft:rotten_flesh"
+				count: 8
+			}]
+		}
+		{
+			title: "Encounter of a new dimension!"
+			x: 3.0d
+			y: 1.5d
+			subtitle: "What are we waiting for?"
+			id: "1CFB946A30DD976B"
+			tasks: [{
+				id: "25950E00EF8AF719"
+				type: "structure"
+				structure: "betterstrongholds:stronghold"
+			}]
+			rewards: [{
+				id: "63FCD0020DAAFF5F"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+		}
+		{
+			title: "New abandoned caves!"
+			x: -1.5d
+			y: -3.5d
+			optional: true
+			id: "28ACD01C353B470C"
+			tasks: [{
+				id: "14E252C9884E0FA1"
+				type: "structure"
+				structure: "bettermineshafts:bettermineshaft"
+			}]
+			rewards: [{
+				id: "0F27DB0CF31F611F"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+		}
+		{
+			title: "The Age of the Netherite!"
+			x: 7.5d
+			y: 3.0d
+			subtitle: "Here is your first bar of Netherite!"
+			dependencies: ["0AAC98D3F648687A"]
+			id: "4FBD9E31BCAA4C6E"
+			tasks: [{
+				id: "55E67D02F796DA1A"
+				type: "item"
+				item: "minecraft:ancient_debris"
+				count: 4L
+			}]
+			rewards: [{
+				id: "069BBA1228146958"
+				type: "item"
+				item: "minecraft:gold_ingot"
+				count: 4
+			}]
+		}
+		{
+			title: "Netherita's Madman!"
+			x: 9.0d
+			y: 3.0d
+			description: ["Congratulations! You are crazy for netherite!"]
+			dependencies: ["4FBD9E31BCAA4C6E"]
+			id: "26A6255D863A5B66"
+			tasks: [
+				{
+					id: "0B05A7688030BE0E"
+					type: "item"
+					item: "dehydration:netherite_leather_flask"
+				}
+				{
+					id: "7F6E2339840F41B2"
+					type: "item"
+					item: {
+						id: "travelersbackpack:netherite"
+						Count: 1b
+						tag: { }
+					}
+				}
+				{
+					id: "07656CAA00B4AA85"
+					type: "item"
+					item: {
+						id: "minecraft:netherite_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "7332C10B17B799C4"
+					type: "item"
+					item: {
+						id: "minecraft:netherite_shovel"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "1D9E6E9BE8FA9EEE"
+					type: "item"
+					item: {
+						id: "minecraft:netherite_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "174AB49799CD215A"
+					type: "item"
+					item: {
+						id: "minecraft:netherite_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "549438BE3E43E476"
+					type: "item"
+					item: {
+						id: "minecraft:netherite_hoe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "77B2D2EA9ACA01FF"
+					type: "item"
+					item: {
+						id: "minecraft:netherite_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "472DB27B8BBFDD44"
+					type: "item"
+					item: {
+						id: "minecraft:netherite_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "08E63ACFEDF26BD1"
+					type: "item"
+					item: {
+						id: "minecraft:netherite_leggings"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "157F70B8816E251C"
+					type: "item"
+					item: {
+						id: "minecraft:netherite_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "783657D89DDAD7C0"
+					type: "xp_levels"
+					xp_levels: 50
+				}
+				{
+					id: "11B41D55882EECF3"
+					type: "item"
+					item: "minecraft:netherite_block"
+					count: 16
+				}
+			]
+		}
+		{
+			title: "An Unknown Construction.."
+			x: 4.5d
+			y: 3.0d
+			subtitle: "Is there still Fortress..?"
+			dependencies: ["639294F61FA79D6F"]
+			id: "45859A973C884F81"
+			tasks: [{
+				id: "2A8CA7FCDF5B6953"
+				type: "structure"
+				structure: "minecraft:fortress"
+			}]
+			rewards: [{
+				id: "35CEE003D4AD009B"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+		}
+		{
+			title: "Cities of purple creatures!"
+			x: 7.5d
+			y: 1.5d
+			subtitle: "How can these boats fly?"
+			dependencies: ["7A9703C9EC00D153"]
+			id: "6DDC991725C50DC0"
+			tasks: [{
+				id: "4E1D974A2C289A44"
+				type: "structure"
+				structure: "minecraft:endcity"
+			}]
+			rewards: [{
+				id: "6B9CD269D7953493"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+		}
+		{
+			title: "Kill the Wither Boss!"
+			x: 6.0d
+			y: 3.0d
+			subtitle: "The deadly 3-headed monster.."
+			dependencies: ["45859A973C884F81"]
+			id: "0AAC98D3F648687A"
+			tasks: [{
+				id: "4BB8639527522238"
+				type: "kill"
+				entity: "minecraft:wither"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "23394C46FAAD197C"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+				{
+					id: "1463937CB15761FB"
+					type: "item"
+					item: "minecraft:glass"
+					count: 5
+				}
+			]
+		}
+		{
+			title: "The New Animal Home!"
+			x: -3.5d
+			y: 3.0d
+			subtitle: "Let's make a home for a couple of animals underground!"
+			dependencies: ["57BEF617A5ABB4F7"]
+			id: "7238123EF548324E"
+			tasks: [{
+				id: "1734196D1022F82E"
+				type: "advancement"
+				advancement: "minecraft:husbandry/breed_an_animal"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "0DC95C6FFDFD2833"
+				type: "item"
+				item: "minecraft:lead"
+				count: 2
+			}]
+		}
+		{
+			title: "Welcome to your new modpack!"
+			x: 0.0d
+			y: -1.5d
+			subtitle: "I hope you enjoy your new experience and adventure!"
+			id: "394B1042E4FBFA62"
+			tasks: [{
+				id: "7734E369493854D5"
+				type: "dimension"
+				dimension: "minecraft:overworld"
+			}]
+			rewards: [{
+				id: "47DFFD4A85A2980E"
+				type: "item"
+				item: "ftbquests:book"
+			}]
+		}
+	]
+}
