@@ -1,0 +1,9 @@
+{
+  "myceliumAndGrassTurnToDirtInDaylightDay": 3.0,
+  "blocksAndWaterAreAffectedByDaylightDay": 6.0,
+  "mobsAndPlayersBurnInDaylightDay": 9.0,
+  "coarseDirtTurnsToSandPhase": "BLOCKS_AND_WATER_ARE_AFFECTED_BY_DAYLIGHT_PHASE",
+  "dimensionWhitelist": [
+    "minecraft:overworld"
+  ]
+}
