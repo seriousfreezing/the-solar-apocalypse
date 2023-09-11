@@ -23,3 +23,9 @@ Features:
 ✅ +25 Quests! ([FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-fabric))
 
 ✅ +40 Mods!
+
+# Get out of the LAG curse! Go with Bisect Hosting, get 25% off your first month using the code: SeriousFreezing!
+
+[![Bisect Hosting](https://gcdnb.pbrd.co/images/2H66C4y3tQWm.webp)](https://bisecthosting.com/SeriousFreezing)
+
+[![Simply Optimized](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact/built-with/simply-optimized_46h.png)](https://modrinth.com/modpack/sop)
