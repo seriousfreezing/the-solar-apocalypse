@@ -1,3 +1,3 @@
-## **This repository is used to store problems, suggestions and the Solar Apocalypse modpack wiki.**
+## **This repository is used to report bugs, suggestions and the modpack wiki**
 
 [Play Now!](https://www.curseforge.com/minecraft/modpacks/the-solar-apocalypse)
