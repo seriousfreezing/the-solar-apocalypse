@@ -1,0 +1,13 @@
+name = "Reforged (formerly Tiered)"
+filename = "Reforged-1.21-1.0.2-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0bb0c31fa249ad52db93f9ff44a12c98bde27abe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5605700
+project-id = 453889

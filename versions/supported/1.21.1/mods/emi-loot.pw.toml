@@ -1,0 +1,13 @@
+name = "EMI Loot"
+filename = "emi_loot-0.7.3+1.21+fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e6a645c77cde83d308b1e348901a1429910b0f9d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5717965
+project-id = 681783

@@ -1,0 +1,13 @@
+name = "Earth2Java"
+filename = "earth2java-fabric-1.11.5+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "406f58d9e842cf21d0bd316bd9382d9e4c517276"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5528071
+project-id = 398022

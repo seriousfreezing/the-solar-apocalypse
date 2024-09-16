@@ -1,0 +1,13 @@
+name = "RPGTitles"
+filename = "rpgtitles-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cd24e149f86713bfa4f3ef74fe76e98e96b5ad72"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5537575
+project-id = 887110

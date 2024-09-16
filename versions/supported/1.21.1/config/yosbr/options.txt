@@ -1,0 +1,13 @@
+version:3839
+enableVsync:false
+simulationDistance:5
+menuBackgroundBlurriness:0.0
+resourcePacks:["fabric","file/Tom\u0027s and Create Smashed.zip"]
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.unknown
+key_key.deeperdarker.boost:key.keyboard.i
+key_key.deeperdarker.transmit:key.keyboard.g
+key_key.travelersbackpack.cycle_tool:key.keyboard.j
+key_key.travelersbackpack.inventory:key.keyboard.v
+key_key.unionlib.open_union_inventory:key.keyboard.unknown
+key_gui.xaero_new_waypoint:key.keyboard.h
