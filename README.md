@@ -32,7 +32,7 @@ This guide uses ATLauncher as an example, you may be able to do this with other 
     - `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/seriousfreezing/SolarApocalypse/refs/heads/main/versions/supported/1.21.1/index.toml`
     (Change to the version you want.)
 
-6. [Add the mods mentioned in the description to this repository folder:](https://i.imgur.com/ULsBt7T.png)
+6. [Add the mods mentioned in the description to this repository folder:](https://i.imgur.com/tJFz6cU.png)
 `./versions/supported/1.xx.x/`
 
     - [Click here to be redirected](https://github.com/seriousfreezing/GloriousEra/tree/main/versions/supported/fabric)
