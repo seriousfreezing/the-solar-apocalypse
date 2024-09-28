@@ -4,6 +4,6 @@
 
 # 🏆Credits
 The datapack/resourcepack used in this modpack is a great collaboration between different content creators. Please check out the original datapack/resourcepack if possible and download!
-- [qrafty's-underground-villages](https://modrinth.com/datapack/qraftys-bunkers)
+- [qrafty's Underground Villages](https://modrinth.com/datapack/qraftys-bunkers)
 - [Tom's and Create Smashed](https://modrinth.com/resourcepack/toms-and-create-smashed)
 - [VanillaTweaks & Bat Membranes](https://vanillatweaks.net/)
