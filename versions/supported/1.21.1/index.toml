@@ -197,6 +197,10 @@ file = "global_packs/required_data/bat membranes v1.0.9 (MC 1.21-1.21.1).zip"
 hash = "bdfcfc2d9b66b1ccabde49ef3a68f811430ade69fb39dd5d80efc5a2a6f6037e"
 
 [[files]]
+file = "global_packs/required_data/qrafty's-underground-villages.zip"
+hash = "f911957be66a126fd808dec9535dcdced225ea72db29f6bb177664cef3ee95a8"
+
+[[files]]
 file = "mods/advancement-plaques-fabric.pw.toml"
 hash = "1effb00f5e92c2121f0c1663e1de9dae42b355597807cd55135ab7583f3a5232"
 metafile = true
@@ -519,10 +523,6 @@ metafile = true
 file = "mods/prism-fabric.pw.toml"
 hash = "5b5603377d85af8869c6805abebf84f409d16f13cf811b96fd27e73a8fee6971"
 metafile = true
-
-[[files]]
-file = "mods/qraftys-bunkers-2.2.jar"
-hash = "be0c10ac738b7c5b63ae7c244d3ff401feb9b5366eb0c1ce4d9d0922733dd3f4"
 
 [[files]]
 file = "mods/reimagined-trims.pw.toml"
