@@ -1,13 +1,13 @@
 name = "Tough As Nails"
-filename = "ToughAsNails-fabric-1.21.1-10.1.0.11.jar"
+filename = "ToughAsNails-fabric-1.21.1-10.1.0.13.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "83deb5ef4eec2bbacb3d361fb653a48e3fcf7767"
+hash = "a408ea1e04cf3638f471ee1b2f57949f1e00f1ba"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5766203
+file-id = 5833253
 project-id = 246391
