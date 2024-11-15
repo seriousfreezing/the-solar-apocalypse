@@ -1,0 +1,13 @@
+name = "Daylight Mobs Reborn"
+filename = "daylight-mobs-reborn-1.2.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c2c4449d10b1d39409b323f9131d1b16aaf4c688"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5843761
+project-id = 475856

@@ -1,0 +1,13 @@
+name = "True Ending ~ Ender Dragon Overhaul"
+filename = "true-ending-v1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c0b75034203e38d6734fa403dddc71310de6bb8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5864450
+project-id = 1094533

@@ -1,0 +1,13 @@
+name = "Villager Names"
+filename = "villagernames-1.21.3-8.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fec5764d79294f252932f3a3b21a3d9391da1b82"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5847043
+project-id = 345854

@@ -1,0 +1,13 @@
+name = "GlitchCore"
+filename = "GlitchCore-fabric-1.21.3-2.2.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec8eee92247a91fef5993a755b400b0aeceac089"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5884524
+project-id = 955399
