@@ -1,13 +1,13 @@
-name = "Hopo Better Mineshaft (Fabric/Forge/NeoForge)"
+name = "Hopo Better Mineshaft"
 filename = "HopoBetterMineshaft-[1.21.1-1.21.3]-1.2.8.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/9IxCUYAP/versions/wpkicJx8/HopoBetterMineshaft-%5B1.21.1-1.21.3%5D-1.2.8.jar"
 hash-format = "sha1"
 hash = "c5ee2f94d3a4601c9064de0100d5724084b702f5"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5840926
-project-id = 623723
+[update.modrinth]
+mod-id = "9IxCUYAP"
+version = "wpkicJx8"

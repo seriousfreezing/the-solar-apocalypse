@@ -1,13 +1,16 @@
-name = "The Solar Apocalypse"
+name = "SolarApocalypse"
 author = "SeriousFreezing"
-version = "16.0.0"
+version = "17.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d90d3c6d806e24868388e40248b9b029dadc651c71ad7d5878bac513b8af0eb0"
+hash = "ace4f0e34a65abb1f69601100b29915e069a1a8e58d66aa9cd5cae78e39ed4a0"
 
 [versions]
 fabric = "0.16.9"
 minecraft = "1.21.3"
+
+[options]
+acceptable-game-versions = ["1.21.1"]

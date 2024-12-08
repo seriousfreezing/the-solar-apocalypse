@@ -1,0 +1,13 @@
+name = "Villager Names"
+filename = "villagernames-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/PnxhZXZ2/versions/DoiCKiZR/villagernames-1.0.0.jar"
+hash-format = "sha1"
+hash = "e0c8d9d1d6019dfe0ff2be771fad1204ef13e761"
+
+[update]
+[update.modrinth]
+mod-id = "PnxhZXZ2"
+version = "DoiCKiZR"

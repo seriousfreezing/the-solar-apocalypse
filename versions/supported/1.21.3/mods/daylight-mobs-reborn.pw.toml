@@ -1,13 +1,13 @@
 name = "Daylight Mobs Reborn"
-filename = "daylight-mobs-reborn-1.2.11.jar"
-side = "both"
+filename = "daylight-mobs-reborn-1.2.12.jar"
+side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/rvlC2Kdd/versions/ucEoYYdA/daylight-mobs-reborn-1.2.12.jar"
 hash-format = "sha1"
-hash = "c2c4449d10b1d39409b323f9131d1b16aaf4c688"
-mode = "metadata:curseforge"
+hash = "78f32d2158424a8296de73cee4bab2cc1c504c8d"
 
 [update]
-[update.curseforge]
-file-id = 5843761
-project-id = 475856
+[update.modrinth]
+mod-id = "rvlC2Kdd"
+version = "ucEoYYdA"

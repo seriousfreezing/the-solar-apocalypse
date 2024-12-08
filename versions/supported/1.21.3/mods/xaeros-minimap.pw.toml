@@ -1,13 +1,13 @@
 name = "Xaero's Minimap"
 filename = "Xaeros_Minimap_24.6.2_Fabric_1.21.3.jar"
-side = "both"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/1bokaNcj/versions/Xin6IcCV/Xaeros_Minimap_24.6.2_Fabric_1.21.3.jar"
 hash-format = "sha1"
 hash = "1ace92509097bc36c8122f3735f57a28c4bc880d"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5890974
-project-id = 263420
+[update.modrinth]
+mod-id = "1bokaNcj"
+version = "Xin6IcCV"

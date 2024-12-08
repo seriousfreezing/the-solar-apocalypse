@@ -2,27 +2,18 @@
 
 **The Solar Apocalypse** is a modpack focused on bringing you a **reimagined and difficult** experience. There are several features to enhance your experience, such as: a **thirst system**, a **temperature system** and mobs with completely **new AI** and **full of new behaviors.**
 
-As well as **focusing on difficulty**, we bring all this together with a good list of mods and **optimization resources** that make your game **weigh less** and be much **more efficient in performance.**
+# 📥 Installation Guide
+<details>
+<summary>Client-side</summary>
 
-# ☀️ The Sun's Burning Path
-**These are the events that will occur in your gameplay:**
-
-- **From the second day:** all the blocks (water, trees, grass and others) will be burned;
-- **From the fourth day:** all the entities exposed to the sun will be burned;
-- **From the fifteenth day:** all the entities and blocks will be burned from layer 100 (it no longer matters whether they are exposed to the sun or not);
-- **Every 5 days:** the sun affects more layers until it reaches layer 0 on **day 100.**
-
-### [⏪ Are you playing on versions older than 16.0.0?](https://github.com/seriousfreezing/SolarApocalypse/wiki/Guide#-are-you-playing-older-versions)
-
-# 💰 Sponsor
-If you want to support this project, you can use my code `SeriousFreezing` to get **25% OFF** your first month on any Bisect Hosting server.
-
-I highly recommend Bisect Hosting to anyone who wants **highly reliable** servers, with **very few failures** and top quality support for **over 60 games.**  
-**[Click on the banner below or here!](https://www.bisecthosting.com/SeriousFreezing)**
-
-[![BisectHosting](https://i.imgur.com/S5E1eaO.png)](https://bisecthosting.com/SeriousFreezing)
-
-# 🛠️📖Installation Guide
+- [CurseForge Launcher](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/160)
+- [Modrinth Launcher](https://support.modrinth.com/en/articles/8802250-modpacks-on-modrinth)
+- [MultiMC](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/141)
+- [GDLauncher](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/142)
+- [ATLauncher](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/361/)
+</details>
+<details>
+<summary>Server-side W.I.P</summary>
 This guide uses ATLauncher as an example, you may be able to do this with other launchers but the step-by-step will change. To install the modpack from source, follow these steps:
 
 1. [Download this.](https://github.com/packwiz/packwiz-installer-bootstrap/releases)
@@ -41,3 +32,11 @@ This guide uses ATLauncher as an example, you may be able to do this with other 
 7. You're ready to play!
 
 **If you have any problems or questions, go to the [Packwiz wiki](https://packwiz.infra.link/tutorials/creating/getting-started/) or contact them on their [discord server.](https://discord.gg/DcSkRF4)**
+</details>
+
+# 🏆Credits
+The resourcepack/shaders used in this modpack is a great collaboration between different content creators. Please check out the original resourcepack/shaders if possible and download!
+- [VanillaTweaks](https://vanillatweaks.net/)
+
+# License
+The some of the art in this project is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International, while the remaining of the files in this project are under the GPL v3.0 license.

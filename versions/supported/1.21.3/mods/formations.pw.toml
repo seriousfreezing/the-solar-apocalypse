@@ -1,13 +1,13 @@
 name = "Formations (Structure Library)"
-filename = "formations-1.0.2-fabric-mc1.21.2.jar"
-side = "both"
+filename = "formations-1.0.3-fabric-mc1.21.2.jar"
+side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/tPe4xnPd/versions/1kcjaPDC/formations-1.0.3-fabric-mc1.21.2.jar"
 hash-format = "sha1"
-hash = "5514ab35b13268a251184d30223df729a4fb0284"
-mode = "metadata:curseforge"
+hash = "fbbf91a0b769c9f3f36c604f6b61edf5833ef179"
 
 [update]
-[update.curseforge]
-file-id = 5843150
-project-id = 915115
+[update.modrinth]
+mod-id = "tPe4xnPd"
+version = "1kcjaPDC"

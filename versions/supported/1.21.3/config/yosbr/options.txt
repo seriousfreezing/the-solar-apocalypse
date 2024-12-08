@@ -1,10 +1,9 @@
 version:3839
-biomeBlendRadius:7
 enableVsync:false
-simulationDistance:5
+simulationDistance:8
 menuBackgroundBlurriness:0.0
-resourcePacks:["fabric","file/Better-Leaves-8.1-1.20+.zip","file/Tom\u0027s and Create Smashed.zip","file/ApocalypseTweaks.zip"]
-incompatibleResourcePacks:["file/Tom\u0027s and Create Smashed.zip"]
+resourcePacks:["file/SodiumTranslations.zip","file/Re-Simple-Storage.zip","file/Better-Leaves-8.1-1.20+.zip","file/ApocalypseTweaks.zip"]
+incompatibleResourcePacks:["file/Re-Simple-Storage.zip"]
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
 key_gui.xaero_new_waypoint:key.keyboard.h

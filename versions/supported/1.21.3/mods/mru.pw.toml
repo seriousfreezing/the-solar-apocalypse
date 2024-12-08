@@ -3,11 +3,11 @@ filename = "MRU-1.0.4+1.21.3+fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/SNVQ2c0g/versions/1ldByxW8/MRU-1.0.4%2B1.21.3%2Bfabric.jar"
 hash-format = "sha1"
 hash = "3796ec651a2ffbe9c44669a683cac8ff567793b2"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5848513
-project-id = 669659
+[update.modrinth]
+mod-id = "SNVQ2c0g"
+version = "1ldByxW8"
