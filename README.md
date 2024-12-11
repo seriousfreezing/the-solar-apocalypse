@@ -1,6 +1,7 @@
 ![Banner](https://i.imgur.com/JBgvxu4.png)
 
 **The Solar Apocalypse** is a modpack focused on bringing you a **reimagined and difficult** experience. There are several features to enhance your experience, such as: a **thirst system**, a **temperature system** and mobs with completely **new AI** and **full of new behaviors.**
+### Looking to fork or use assets from my modpack? [Click here!](https://github.com/seriousfreezing/BedrockReloaded/wiki/Forks)
 
 # 📥 Installation Guide
 <details>
@@ -13,30 +14,36 @@
 - [ATLauncher](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/361/)
 </details>
 <details>
-<summary>Server-side W.I.P</summary>
-This guide uses ATLauncher as an example, you may be able to do this with other launchers but the step-by-step will change. To install the modpack from source, follow these steps:
+<summary>Server-side</summary>
 
-1. [Download this.](https://github.com/packwiz/packwiz-installer-bootstrap/releases)
-2. Create an instance for Minecraft 1.xx.x with Fabric.
-3. [Move the previously downloaded file to your instance folder.](https://i.imgur.com/7A3rAQM.png)
-4. Go to the instance settings and then to the commands tab.
-5. [Click on “Enable commands?” and add this command line to the pre-launch:](https://i.imgur.com/FAjhdEu.png)
+> [!WARNING]
+> Make a backup before anything else to avoid problems in the future.
+  - [Docker Compose](https://docker-minecraft-server.readthedocs.io/en/latest/)
+  - [mcman](https://github.com/ParadigmMC/mcman)
+- <details>
+  <summary>Packwiz</summary>
 
-    - `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/seriousfreezing/SolarApocalypse/refs/heads/main/versions/supported/1.21.1/index.toml`
-    (Change to the version you want.)
+  1. Download the [packwiz-installer-bootstrap](https://github.com/packwiz/packwiz-installer-bootstrap/releases);
+  2. Then move it to the root folder of your server; 
+  - It's the same folder as the ``fabric-server-1.xx.x-0.1x.x.jar`` file.
+  3. Go to ``pre-launch command`` and add this command: 
+  ```
+  java -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githubusercontent.com/seriousfreezing/SolarApocalypse/refs/heads/main/versions/supported/1.21.3/index.toml
+  ```
+    - [You can switch to the version of Minecraft you want;](https://github.com/seriousfreezing/SolarApocalypse/tree/main/versions/supported)
+    - If you can't find it, maybe your server provider doesn't support it.
 
-6. [Add the mods mentioned in the description to this repository folder:](https://i.imgur.com/tJFz6cU.png)
-`./versions/supported/1.xx.x/`
-
-    - [Click here to be redirected](https://github.com/seriousfreezing/SolarApocalypse/tree/main/versions/supported)
-7. You're ready to play!
-
-**If you have any problems or questions, go to the [Packwiz wiki](https://packwiz.infra.link/tutorials/creating/getting-started/) or contact them on their [discord server.](https://discord.gg/DcSkRF4)**
+    **If you have any problems or questions, go to the [Packwiz wiki](https://packwiz.infra.link/tutorials/creating/getting-started/) or contact them on their [discord server.](https://discord.gg/DcSkRF4)**
+  </details>
 </details>
 
-# 🏆Credits
-The resourcepack/shaders used in this modpack is a great collaboration between different content creators. Please check out the original resourcepack/shaders if possible and download!
-- [VanillaTweaks](https://vanillatweaks.net/)
+# 🙌 Credits
+- The modpack is based on **[Adrenaline](https://modrinth.com/modpack/adrenaline) and [Simply Optimized](https://modrinth.com/modpack/sop)**;
+- The descriptions and the wiki are inspired by the projects: **[Adrenaline](https://modrinth.com/modpack/adrenaline), [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) and [Sodium](https://modrinth.com/mod/sodium)**;
+- Some features are from other resource packs:
+  - [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/) by [The Vanilla Tweaks team](https://vanillatweaks.net/about/)
 
-# License
-The some of the art in this project is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International, while the remaining of the files in this project are under the GPL v3.0 license.
+# 📜 License
+This modpack is licensed under the GNU General Public License v3;
+
+However, some of the artwork is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International, see [this article](https://github.com/seriousfreezing/SolarApocalypse/wiki/Forks) for more information.
