@@ -1,7 +1,7 @@
 ![Banner](https://i.imgur.com/JBgvxu4.png)
 
 **The Solar Apocalypse** is a modpack focused on bringing you a **reimagined and difficult** experience. There are several features to enhance your experience, such as: a **thirst system**, a **temperature system** and mobs with completely **new AI** and **full of new behaviors.**
-### Looking to fork or use assets from my modpack? [Click here!](https://github.com/seriousfreezing/BedrockReloaded/wiki/Forks)
+### Looking to fork or use assets from my modpack? [Click here!](https://github.com/seriousfreezing/SolarApocalypse/wiki/Forks)
 
 # 📥 Installation Guide
 <details>
@@ -13,11 +13,13 @@
 - [GDLauncher](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/142)
 - [ATLauncher](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/361/)
 </details>
+
+> [!WARNING]
+> Back up your server before you do anything.
+
 <details>
 <summary>Server-side</summary>
 
-> [!WARNING]
-> Make a backup before anything else to avoid problems in the future.
   - [Docker Compose](https://docker-minecraft-server.readthedocs.io/en/latest/)
   - [mcman](https://github.com/ParadigmMC/mcman)
 - <details>
