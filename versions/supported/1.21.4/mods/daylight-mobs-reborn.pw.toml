@@ -1,0 +1,13 @@
+name = "Daylight Mobs Reborn"
+filename = "daylight-mobs-reborn-1.2.13.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/rvlC2Kdd/versions/saPR9nbM/daylight-mobs-reborn-1.2.13.jar"
+hash-format = "sha1"
+hash = "5247bcff65845e0016b6680345998a67745834dc"
+
+[update]
+[update.modrinth]
+mod-id = "rvlC2Kdd"
+version = "saPR9nbM"

@@ -1,0 +1,13 @@
+name = "Re-Imagine-Tom-Simple-Storage"
+filename = "Re-Simple-Storage.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AFl4lkap/versions/Wt0naTC3/Re-Simple-Storage.zip"
+hash-format = "sha1"
+hash = "d16ecd49e6e8bc4e3a9d23e85b8794f4ed1d2322"
+
+[update]
+[update.modrinth]
+mod-id = "AFl4lkap"
+version = "Wt0naTC3"

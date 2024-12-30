@@ -1,0 +1,13 @@
+name = "qrafty's Underground Villages"
+filename = "qraftys-bunkers-3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xlB8CNvE/versions/MyUegAtZ/qraftys-bunkers-3.1.jar"
+hash-format = "sha1"
+hash = "e3cb4607d9160784f4a6d6ee72a2944f9bde805e"
+
+[update]
+[update.modrinth]
+mod-id = "xlB8CNvE"
+version = "MyUegAtZ"

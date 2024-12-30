@@ -1,0 +1,13 @@
+name = "Solar Apocalypse"
+filename = "solar-apocalypse-1.9.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wkKhe1pU/versions/ViNgCFID/solar-apocalypse-1.9.9.jar"
+hash-format = "sha1"
+hash = "4537744877bf40dcc61f7261ba2a1b271660a93f"
+
+[update]
+[update.modrinth]
+mod-id = "wkKhe1pU"
+version = "ViNgCFID"

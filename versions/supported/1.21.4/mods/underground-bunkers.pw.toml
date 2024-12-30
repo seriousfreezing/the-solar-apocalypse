@@ -1,0 +1,13 @@
+name = "Underground Bunkers"
+filename = "UndergroundBunkers-1.0.4-1.21.x-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/MRK4tULJ/versions/IOxi2RHE/UndergroundBunkers-1.0.4-1.21.x-fabric.jar"
+hash-format = "sha1"
+hash = "a2efcc835c6bdf0c00f92c4dcede761fa0dadab3"
+
+[update]
+[update.modrinth]
+mod-id = "MRK4tULJ"
+version = "IOxi2RHE"
