@@ -1,0 +1,13 @@
+name = "SuperMartijn642's Core Lib"
+filename = "supermartijn642corelib-1.1.18a-fabric-mc1.21.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rOUBggPv/versions/ALUOfBQL/supermartijn642corelib-1.1.18a-fabric-mc1.21.4.jar"
+hash-format = "sha1"
+hash = "33ea10188e41583065135d80c9cea348184b5f20"
+
+[update]
+[update.modrinth]
+mod-id = "rOUBggPv"
+version = "ALUOfBQL"

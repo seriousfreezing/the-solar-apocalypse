@@ -1,0 +1,117 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = title_screen
+}
+
+menu_background {
+  background_type = image
+  image_path = [source:local]/config/fancymenu/assets/background.png
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = true
+}
+
+element {
+  element_type = image
+  width = 203
+  height = 72
+  x = -103
+  y = -104
+  source = [source:local]config/fancymenu/assets/logo.png
+}
+
+vanilla_button {
+  instance_identifier = mc_titlescreen_singleplayer_button
+  label = 
+  anchor_point = mid-centered
+  width = 125
+  height = 20
+  x = -63
+  y = -25
+  backgroundnormal = [source:local]config/fancymenu/assets/btn_sp.png
+  backgroundhovered = [source:local]config/fancymenu/assets/btn_sp_hover.png
+}
+
+vanilla_button {
+  instance_identifier = mc_titlescreen_multiplayer_button
+  label = 
+  anchor_point = mid-centered
+  width = 125
+  height = 20
+  x = -63
+  y = -2
+  backgroundnormal = [source:local]config/fancymenu/assets/btn_mp.png
+  backgroundhovered = [source:local]config/fancymenu/assets/btn_mp_hover.png
+}
+
+vanilla_button {
+  instance_identifier = mc_titlescreen_options_button
+  label = 
+  anchor_point = mid-centered
+  width = 125
+  height = 20
+  x = -63
+  y = 21
+  backgroundnormal = [source:local]config/fancymenu/assets/btn_o.png
+  backgroundhovered = [source:local]config/fancymenu/assets/btn_o_hover.png
+}
+
+vanilla_button {
+  instance_identifier = mc_titlescreen_quit_button
+  label = 
+  anchor_point = mid-centered
+  width = 125
+  height = 20
+  x = -63
+  y = 45
+  backgroundnormal = [source:local]config/fancymenu/assets/btn_eg.png
+  backgroundhovered = [source:local]config/fancymenu/assets/btn_eg_hover.png
+}
+
+deep_element {
+  element_type = title_screen_realms_notification
+  is_hidden = true
+}
+
+deep_element {
+  element_type = title_screen_branding
+  hidden = true
+}
+
+deep_element {
+  element_type = title_screen_logo
+  hidden = true
+}
+
+deep_element {
+  element_type = title_screen_splash
+  hidden = true
+}
+
+vanilla_button {
+  instance_identifier = 604382
+  is_hidden = true
+}
+
+vanilla_button {
+  instance_identifier = 376382
+  is_hidden = true
+}
+
+vanilla_button {
+  instance_identifier = mc_titlescreen_realms_button
+  is_hidden = true
+}
+
+vanilla_button {
+  instance_identifier = mc_titlescreen_language_button
+  is_hidden = true
+}
+
+vanilla_button {
+  instance_identifier = 604346
+  is_hidden = true
+}

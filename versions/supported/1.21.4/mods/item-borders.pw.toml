@@ -1,13 +1,13 @@
 name = "Item Borders"
-filename = "ItemBorders-1.21.3-fabric-1.2.5.jar"
+filename = "ItemBorders-1.20.1-fabric-1.2.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/b1fMg6sH/versions/fIXlaSJX/ItemBorders-1.21.3-fabric-1.2.5.jar"
+url = "https://cdn.modrinth.com/data/b1fMg6sH/versions/Ycvq9kpk/ItemBorders-1.20.1-fabric-1.2.2.jar"
 hash-format = "sha1"
-hash = "fc2cab781d9c500725e5e639883a331cc5b69446"
+hash = "37dce3e1ff7fe7d1577365e0ddec257c7fa1e275"
 
 [update]
 [update.modrinth]
 mod-id = "b1fMg6sH"
-version = "fIXlaSJX"
+version = "Ycvq9kpk"

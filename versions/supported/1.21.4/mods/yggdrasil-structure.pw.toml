@@ -1,0 +1,13 @@
+name = "Yggdrasil"
+filename = "yggdrasil-structure-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hwNDseBp/versions/5KNxBhpw/yggdrasil-structure-3.0.0.jar"
+hash-format = "sha1"
+hash = "7cd9a487af9142ada4140e2ef25b12bb8c0137fe"
+
+[update]
+[update.modrinth]
+mod-id = "hwNDseBp"
+version = "5KNxBhpw"

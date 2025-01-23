@@ -1,0 +1,13 @@
+name = "Item Borders [Fabric]"
+filename = "ItemBorders-1.21-fabric-1.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "be585baafcfe1f6b972b8a819f66177d3b1b985b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5591003
+project-id = 541604

@@ -1,0 +1,34 @@
+[entity]
+"Chicken egg try hatch on despawn" = false
+"Explosive sniffer" = false
+"No tamed horse wandering" = false
+"Rabbit breed after eats carrot crops" = false
+"Silent nametag" = false
+"Snow Golem produces powder snow" = false
+"Wandering trader announcer" = false
+
+[general]
+"Bundle's Enchantment" = false
+"Wash filled map with Cauldron" = false
+"Faster minecart" = false
+"Backup Enchantments" = false
+"Prevent farmland trampling" = false
+"Sleep doesn't skip weather" = "RAIN_ONLY"
+"Usable suspicious block" = false
+"XP crops" = false
+
+[item]
+"Bundle place function" = false
+"Shear can pickpocket villager" = false
+"Shear can defuse TNT" = false
+"Shear prevents plant from growing" = false
+"Slime chunk detector" = false
+"Spyglass what is that?" = "DISABLE"
+"Trident can call thunder storm" = false
+"Waxed copper indicator" = false
+
+[command]
+"Emote commands" = false
+
+[recipe]
+"Suspicious sand/gravel recipe" = false

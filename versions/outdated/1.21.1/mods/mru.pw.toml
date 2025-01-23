@@ -1,0 +1,13 @@
+name = "M.R.U"
+filename = "MRU-1.0.3+1.21+fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf0d47f5a649d3b362f87d994a96fcfca4262d9c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5825006
+project-id = 669659
