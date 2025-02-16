@@ -1,13 +1,13 @@
 name = "Enchanting Reimagined"
-filename = "enchanting-reimagined-1.1.4.jar"
+filename = "enchanting-reimagined-1.1.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SKXRTckf/versions/LD2LNpUM/enchanting-reimagined-1.1.4.jar"
+url = "https://cdn.modrinth.com/data/SKXRTckf/versions/Hg2LOSyu/enchanting-reimagined-1.1.5.jar"
 hash-format = "sha1"
-hash = "5c8432cfa932a3f73144ac2ce642dbf9878e5ce7"
+hash = "a2087b5e5fbbbb5187b71041d4acc4f4a1e26b4c"
 
 [update]
 [update.modrinth]
 mod-id = "SKXRTckf"
-version = "LD2LNpUM"
+version = "Hg2LOSyu"

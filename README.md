@@ -9,11 +9,11 @@
 <details>
 <summary>Client-side</summary>
 
+- **[ATLauncher](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/361/)**
 - **[CurseForge Launcher](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/160)**
+- **[GDLauncher](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/142)**
 - **[Modrinth Launcher](https://support.modrinth.com/en/articles/8802250-modpacks-on-modrinth)**
 - **[MultiMC](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/141)**
-- **[GDLauncher](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/142)**
-- **[ATLauncher](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/361/)**
 </details>
 
 <details>
@@ -26,7 +26,7 @@
 
   Download the [packwiz-installer-bootstrap](https://github.com/packwiz/packwiz-installer-bootstrap/releases), move it to the **root folder** of your server, and add the following command to your **pre-launch command**: 
    ```
-   java -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githubusercontent.com/seriousfreezing/SolarApocalypse/refs/heads/main/versions/supported/1.21.3/index.toml
+   java -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githubusercontent.com/seriousfreezing/SolarApocalypse/refs/heads/main/versions/supported/1.2x.x/index.toml
   ```
    - **[Change the Minecraft version you want.](https://github.com/seriousfreezing/SolarApocalypse/tree/main/versions/supported)**  
 </details>
