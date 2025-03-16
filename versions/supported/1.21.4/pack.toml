@@ -1,15 +1,15 @@
 name = "SolarApocalypse"
 author = "SeriousFreezing"
-version = "18.0.0"
+version = "21.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "28ed82a101e6f3fd4d92c1f7d65b3964d46806960d3006c2a9ccc9197316f7e1"
+hash = "39080f1b3d3b05c4b49c40200e4058677f9c1f9f04e2e81e4aea91c234b539a5"
 
 [versions]
-fabric = "0.16.9"
+fabric = "0.16.10"
 minecraft = "1.21.4"
 
 [options]

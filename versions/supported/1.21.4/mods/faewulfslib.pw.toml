@@ -1,0 +1,13 @@
+name = "Faewulf's Lib"
+filename = "faewulf_lib-fabric-1.21.4-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/q4N9H96q/versions/nrCOSkRn/faewulf_lib-fabric-1.21.4-1.2.3.jar"
+hash-format = "sha1"
+hash = "20b48ced91dd1d4057654f0718308737f8e96734"
+
+[update]
+[update.modrinth]
+mod-id = "q4N9H96q"
+version = "nrCOSkRn"
