@@ -31,15 +31,6 @@
    - **[Change the Minecraft version you want.](https://github.com/seriousfreezing/SolarApocalypse/tree/main/versions/supported)**  
 </details>
 
-# ⭐ Credits
-This modpack takes inspiration from various projects, incorporating ideas, descriptions and assets to create a unique and cohesive experience. **Be sure to check out their amazing work!**
-
-- **[Adrenaline](https://modrinth.com/modpack/adrenaline)**
-- **[Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized)**
-- **[Simply Optimized](https://modrinth.com/modpack/sop)**
-- **[Sodium](https://modrinth.com/mod/sodium)**
-- **[Vanilla Tweaks](https://vanillatweaks.net/)**
-
 # 📜 License
 This modpack is licensed under the **GPL-3.0!**   
 Some artwork is licensed under **CC-NC-ND**. **[Learn More.](https://github.com/seriousfreezing/SolarApocalypse/wiki/Forking-Guidelines)** 

@@ -1,13 +1,13 @@
 name = "Controlify"
-filename = "controlify-2.0.2+1.21.4-fabric.jar"
+filename = "controlify-2.0.4+1.21.4-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/Naxc8isg/controlify-2.0.2%2B1.21.4-fabric.jar"
+url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/q1VOEz5n/controlify-2.0.4%2B1.21.4-fabric.jar"
 hash-format = "sha1"
-hash = "da77c8f0abf4e4f3714927de8fd4cf19414d5083"
+hash = "ece262c0d621fda2161fb68841c2442b643afc4a"
 
 [update]
 [update.modrinth]
 mod-id = "DOUdJVEm"
-version = "Naxc8isg"
+version = "q1VOEz5n"
