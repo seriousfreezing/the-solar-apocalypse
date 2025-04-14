@@ -62,38 +62,8 @@ vanilla_button {
   label = 
 }
 
-deep_element {
-  element_type = title_screen_branding
-  hidden = true
-}
-
-deep_element {
-  element_type = title_screen_logo
-  hidden = true
-}
-
-deep_element {
-  element_type = title_screen_realms_notification
-  is_hidden = true
-}
-
-deep_element {
-  element_type = title_screen_splash
-  hidden = true
-}
-
 vanilla_button {
-  instance_identifier = mc_titlescreen_language_button
-  is_hidden = true
-}
-
-vanilla_button {
-  instance_identifier = mc_titlescreen_realms_button
-  is_hidden = true
-}
-
-vanilla_button {
-  instance_identifier = 802990
+  instance_identifier = 376382
   is_hidden = true
 }
 
@@ -103,11 +73,31 @@ vanilla_button {
 }
 
 vanilla_button {
-  instance_identifier = 604346
+  instance_identifier = mc_titlescreen_realms_button
   is_hidden = true
 }
 
 vanilla_button {
-  instance_identifier = 376382
+  instance_identifier = minecraft_branding_widget
+  is_hidden = true
+}
+
+vanilla_button {
+  instance_identifier = minecraft_logo_widget
+  is_hidden = true
+}
+
+vanilla_button {
+  instance_identifier = minecraft_realms_notification_icons_widget
+  is_hidden = true
+}
+
+vanilla_button {
+  instance_identifier = minecraft_splash_widget
+  is_hidden = true
+}
+
+vanilla_button {
+  instance_identifier = title_screen_copyright_button
   is_hidden = true
 }
