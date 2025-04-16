@@ -33,4 +33,4 @@
 
 # 📜 License
 This modpack is licensed under the **GPL-3.0!**   
-Some artwork is licensed under **CC-NC-ND**. **[Learn More.](https://github.com/seriousfreezing/SolarApocalypse/wiki/Forking-Guidelines)** 
+Some artwork is licensed under **CC-NC-ND**. **[Learn More.](https://github.com/seriousfreezing/SolarApocalypse/wiki/Disclaimers)** 
