@@ -1,1 +1,0 @@
-craftingTable.remove(<item:handcrafted:oven>);
