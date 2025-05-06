@@ -1,3 +1,0 @@
-type = customizablemenus
-net.minecraft.class_442 {
-}
