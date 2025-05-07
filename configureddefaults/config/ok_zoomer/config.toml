@@ -1,0 +1,5 @@
+[features]
+	persistent_interface = true
+
+[tweaks]
+	spyglass_sounds = true

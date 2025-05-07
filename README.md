@@ -13,7 +13,6 @@
 - **[CurseForge Launcher](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/160)**
 - **[GDLauncher](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/142)**
 - **[Modrinth Launcher](https://support.modrinth.com/en/articles/8802250-modpacks-on-modrinth)**
-- **[MultiMC](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/141)**
 </details>
 
 <details>
@@ -28,9 +27,11 @@
    ```
    java -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githubusercontent.com/seriousfreezing/SolarApocalypse/refs/heads/main/versions/supported/1.2x.x/index.toml
   ```
-   - **[Change the Minecraft version you want.](https://github.com/seriousfreezing/SolarApocalypse/tree/main/versions/supported)**  
+   - **Change the Minecraft version you want.**  
 </details>
 
-# 📜 License
-This modpack is licensed under the **GPL-3.0!**   
-Some artwork is licensed under **CC-NC-ND**. **[Learn More.](https://github.com/seriousfreezing/SolarApocalypse/wiki/Disclaimers)** 
+---
+> [!NOTE]
+> Copyright © 2025 SeriousFreezing. [GPL-3.](https://www.gnu.org/licenses/gpl-3.0.html#license-text)  
+> Some artwork is licensed under CC-NC-ND. [Learn More.](https://seriousfreezing.gitbook.io/thesolarapocalypse/disclaimers)  
+> Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.

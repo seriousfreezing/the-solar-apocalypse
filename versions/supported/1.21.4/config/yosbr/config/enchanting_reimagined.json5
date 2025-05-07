@@ -1,1 +1,0 @@
-{"extraction":{"extractionCost":3},"scrubbing":{"scrubbingCost":8},"applying":{"applyingCost":3},"combining":{"combiningCost":5},"splitting":{"splittingCost":2},"upgrading":{"upgradingCost":5,"advancedDustExtraLevelCount":10}}

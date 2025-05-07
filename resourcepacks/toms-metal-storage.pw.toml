@@ -1,0 +1,13 @@
+name = "Tom's Metal Storage"
+filename = "Tom's Metal Storage v1.2 (1.21.1).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nIS7bKS0/versions/wQUux8uy/Tom%27s%20Metal%20Storage%20v1.2%20%281.21.1%29.zip"
+hash-format = "sha1"
+hash = "4759ae87655f4b47ab46409e00173ecb6e9c70e4"
+
+[update]
+[update.modrinth]
+mod-id = "nIS7bKS0"
+version = "wQUux8uy"
