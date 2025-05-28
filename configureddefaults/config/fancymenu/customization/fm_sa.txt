@@ -6,7 +6,7 @@ layout-meta {
 
 menu_background {
   background_type = image
-  image_path = [source:local]/config/fancymenu/assets/background.png
+  image_path = [source:local]/config/fancymenu/assets/background.jpg
 }
 
 customization {
@@ -63,6 +63,11 @@ vanilla_button {
 }
 
 vanilla_button {
+  instance_identifier = title_screen_copyright_button
+  base_opacity = 0
+}
+
+vanilla_button {
   instance_identifier = 376382
   is_hidden = true
 }
@@ -94,10 +99,5 @@ vanilla_button {
 
 vanilla_button {
   instance_identifier = minecraft_splash_widget
-  is_hidden = true
-}
-
-vanilla_button {
-  instance_identifier = title_screen_copyright_button
   is_hidden = true
 }

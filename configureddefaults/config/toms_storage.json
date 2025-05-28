@@ -1,6 +1,1 @@
-{
-  "wirelessRange": 8,
-  "wirelessTermBeaconLvl": 3,
-  "invLinkBeaconLvlSameDim": 3,
-  "invLinkBeaconLvlCrossDim": 4
-}
+{"wirelessRange":8,"wirelessTermBeaconLvl":3,"invLinkBeaconLvlSameDim":3,"invLinkBeaconLvlCrossDim":4}

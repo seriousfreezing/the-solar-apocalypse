@@ -49,8 +49,8 @@ file = "configureddefaults/config/explorerscompass.json"
 hash = "546d9f2394c8f5a77cd6382a1cb034bcc4384a82afc4b070940e2c094fd88b42"
 
 [[files]]
-file = "configureddefaults/config/fancymenu/assets/background.png"
-hash = "91a8889e27686e6c187da31a5fdc9bc07559abee5956f931280a3034d767ef54"
+file = "configureddefaults/config/fancymenu/assets/background.jpg"
+hash = "acd5ee5aca471459cc06a1f9b8a3fc8a78c6f3f421d0208469a77d6aa698aefc"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/assets/btn_eg.png"
@@ -102,7 +102,7 @@ hash = "74ef617bd041de53a920fd33d8cf000b8409e38ea905705b26e4dcbcd9bb680c"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/customization/fm_sa.txt"
-hash = "91d55bf03990200374a7a3e130299431d0ad0b38f308b9b931541d9b7b103a95"
+hash = "25f6b03f43a7f7622cc94c4ddd322fa54eeb9605ab988b96c678c465f5292838"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/options.txt"
@@ -190,7 +190,7 @@ hash = "be2f96ef09bd5e018594a7e0f63cc2a6654b48ea80afb59a560472338012b964"
 
 [[files]]
 file = "configureddefaults/config/toms_storage.json"
-hash = "2aa0ad8fddfdf550c01061446035d3b920aa2aaf2f37c22f353e8e8cffb984fc"
+hash = "711efebaa849bb0ec153fa502bd2038caf5c93fd284dae409856e668a71302de"
 
 [[files]]
 file = "configureddefaults/config/toughasnails/thirst.toml"
@@ -226,12 +226,12 @@ hash = "8acfc3746cffb31a56a79b5a0dd066cc171646f8c3ac5fdff5b3234481dde53d"
 
 [[files]]
 file = "mods/adorn.pw.toml"
-hash = "6229c9d66153d1816743afe0e9a0ec43ab4a9456b28ec44cd540a67dd9d833f8"
+hash = "3bce90e63df151199574f72790eda73698bd5cab9190f2fde17780c5304df781"
 metafile = true
 
 [[files]]
 file = "mods/advanced-netherite.pw.toml"
-hash = "bece8b3f622b5612f72ef97d5743764d62ef1539ab29c02eeadaed3f7bc2a1cf"
+hash = "0b5f0e3ddebf516e12fa313b984e4d591619c5bf56b07454820228dfe46c1065"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "1720d34dde829929ae328c037cd256be6e20548171ecf777572ebb1b37857978"
+hash = "5a9b83b7f0ab34a7d34f08e008072309fbca01d348f02db2312ac021145755bc"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "7a73c9e9f436d0233c28de953a45571bceee73dcbeaaa2e87eb3617dcf9a95f2"
+hash = "2903c6399cea1043f0bc6a70f04bbd9aa1f9785fd17dc2bccdd1cdc621512098"
 metafile = true
 
 [[files]]
@@ -331,12 +331,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6a86c29577ccf2e35244fb4611bb136d289741794cec5141b09127e4b300c5a5"
+hash = "993692b556852bb2fb6999972cf2b2af4e9ab323bd89f09371ca375769d621cd"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9df60ec79ff1f4f0ab79b9e10863b831884a2ba277bf0a6be989d3db9d32373d"
+hash = "8d27c5bfadd53089243e654bd605faac4b768dba2647254e06e4d04e9be28236"
 metafile = true
 
 [[files]]
@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/frozenlib.pw.toml"
-hash = "34847d4a3ab4e08830375aba04239e198c3d9ec68c9a776fd5c42541fa47651d"
+hash = "62ffa77c950f5a31915a39eed92f99a44af4665128677d484930460cdabca738"
 metafile = true
 
 [[files]]
@@ -421,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a159d9e2c41768b703ca5f5e1f5bc382d8a5d86f4f3c967af5d71d460796ab74"
+hash = "a84969cd82bb9a1f7b5f8b5e22a990a3ce1a0a2343bd758f098e576282081ec2"
 metafile = true
 
 [[files]]
@@ -540,7 +540,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "d567742be412ef7207cf5406d5114fe29e7c766428c57ba5573c5ecdc691ab3d"
+hash = "05dc107d9bb83f65bb46d8403bf6b3d94ea9fb44eb57d122d3b70eed5c30b2e3"
 metafile = true
 
 [[files]]
@@ -645,12 +645,12 @@ metafile = true
 
 [[files]]
 file = "mods/tiny-skeletons.pw.toml"
-hash = "74b81926d9c08455551b063d668b49a0e87cad76a5ae5aff95edf584cf8dfc1c"
+hash = "96dcbbfac04c960e50f31d5ba95910d007ae438d78da28aa8af4b68c034d8678"
 metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "8e4717ce682064140a5ea95b0a3be0f6a5240b3d6907ab7b8e2dec25d45bcbe4"
+hash = "5a3faecf1050dc63099d744ec9ad400b181f21aed9131b6d3a74e2a4044df03f"
 metafile = true
 
 [[files]]
@@ -660,17 +660,17 @@ metafile = true
 
 [[files]]
 file = "mods/trailier-tales.pw.toml"
-hash = "c359a0e6a6fe4abb66ea9a12aa61775eaed879436a5dac83fd95f55f3d8336fd"
+hash = "75465a22d58116099c4aa332d095d404fd809f20a9dcbbd86659d44f8627943d"
 metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "b6c9bb6a299bf8ef502c9f3c864a32b4af2d4bc4b8df61d93081813fc566b723"
+hash = "ffa3238ca4a488875ab9fbfd05c6fc09009b15265262a0935bc8c7b13f0c66b9"
 metafile = true
 
 [[files]]
 file = "mods/true-ending.pw.toml"
-hash = "0b6094f223040a406ecc246935be5185d68c118407862c32c16ba9b1a7c472dc"
+hash = "18842aeaf29d3fb115d60d777d3d13d29e75f9fc6cc605f6d8efefdedb3cd52c"
 metafile = true
 
 [[files]]
@@ -685,12 +685,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "491cab6c632b283b04fc8e5e0e444eecf147dcb060c20a3491f6d7043377a806"
+hash = "9e86bc269769141ccc2bd6b68bd9db63d3ec544676ad1a865094f3f8d4648c9b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ab21a1bf64f76da9ec13161b27a482b658b0bbf87ee3f7ac03bbe6be785c5bb2"
+hash = "27351907b598424daaf76a5bf86fdb17bf72d86e6a123728dec95afc6687728e"
 metafile = true
 
 [[files]]
@@ -709,7 +709,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "90b2f6b43f6f8f66feb184758abed18efa70e03bd49134c5841c4dad25a51891"
+hash = "04f8ae38e73840771de70206ac2bcf9af334fd26c8b226a6b4a7fcdd6b24119f"
 metafile = true
 
 [[files]]
