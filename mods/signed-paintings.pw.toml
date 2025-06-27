@@ -1,13 +1,13 @@
 name = "Signed Paintings"
-filename = "signed_paintings-1.1.4-mc1.21.5+.jar"
+filename = "signed_paintings-1.1.5-mc1.21.5+.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/zn26DYtG/versions/NyaEnLam/signed_paintings-1.1.4-mc1.21.5%2B.jar"
-hash-format = "sha1"
-hash = "c71aeccf211a346de7511d12c8c056595b3c7630"
+url = "https://cdn.modrinth.com/data/zn26DYtG/versions/u3GzNcA4/signed_paintings-1.1.5-mc1.21.5%2B.jar"
+hash-format = "sha512"
+hash = "58e22ffc1171f282775b89165c786c1ae13f428df4e50d19ae31709f96243ef47a29b86b5c5d9ffb8111d21b166f87af1033fdd7ffd5e5861fa0a832a964bdba"
 
 [update]
 [update.modrinth]
 mod-id = "zn26DYtG"
-version = "NyaEnLam"
+version = "u3GzNcA4"
