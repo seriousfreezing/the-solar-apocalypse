@@ -1,0 +1,13 @@
+name = "Konkrete"
+filename = "konkrete_fabric_1.9.11_MC_1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/J81TRJWm/versions/prXF72pT/konkrete_fabric_1.9.11_MC_1.21.5.jar"
+hash-format = "sha1"
+hash = "cbcb2a26c37e48d5e02b4cbcf2ffba4b6931cc1b"
+
+[update]
+[update.modrinth]
+mod-id = "J81TRJWm"
+version = "prXF72pT"

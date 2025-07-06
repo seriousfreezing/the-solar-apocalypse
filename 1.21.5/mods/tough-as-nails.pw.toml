@@ -1,0 +1,13 @@
+name = "Tough As Nails"
+filename = "ToughAsNails-fabric-1.21.5-10.5.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ge1sOdFH/versions/IvlsbIvT/ToughAsNails-fabric-1.21.5-10.5.0.5.jar"
+hash-format = "sha512"
+hash = "52dd62827b19290616a3ebf8e0fd51c2969a663ffbd5369b9a8942b1b249bfca5f58718e49dc9ccf3222d481a1d5d827116ae89729899b445dc15949d9187b32"
+
+[update]
+[update.modrinth]
+mod-id = "ge1sOdFH"
+version = "IvlsbIvT"

@@ -1,0 +1,13 @@
+name = "Better Furnaces Reforged"
+filename = "BetterFurnacesReforged-1.21.5-1.1.2518.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZXOYCX2A/versions/p9lEUqX9/BetterFurnacesReforged-1.21.5-1.1.2518.1-fabric.jar"
+hash-format = "sha1"
+hash = "40fe85268f28ba29885639d81ff4f4d3c61de344"
+
+[update]
+[update.modrinth]
+mod-id = "ZXOYCX2A"
+version = "p9lEUqX9"

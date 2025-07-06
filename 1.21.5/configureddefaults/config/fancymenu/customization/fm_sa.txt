@@ -1,0 +1,103 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = title_screen
+}
+
+menu_background {
+  background_type = image
+  image_path = [source:local]/config/fancymenu/assets/background.jpg
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = true
+}
+
+vanilla_button {
+  instance_identifier = mc_titlescreen_singleplayer_button
+  anchor_point = mid-centered
+  width = 125
+  height = 20
+  x = -63
+  y = -25
+  backgroundnormal = [source:local]config/fancymenu/assets/btn_sp.png
+  backgroundhovered = [source:local]config/fancymenu/assets/btn_sp_hover.png
+  label = 
+}
+
+vanilla_button {
+  instance_identifier = mc_titlescreen_multiplayer_button
+  anchor_point = mid-centered
+  width = 125
+  height = 20
+  x = -63
+  y = -2
+  backgroundnormal = [source:local]config/fancymenu/assets/btn_mp.png
+  backgroundhovered = [source:local]config/fancymenu/assets/btn_mp_hover.png
+  label = 
+}
+
+vanilla_button {
+  instance_identifier = mc_titlescreen_options_button
+  anchor_point = mid-centered
+  width = 125
+  height = 20
+  x = -63
+  y = 21
+  backgroundnormal = [source:local]config/fancymenu/assets/btn_o.png
+  backgroundhovered = [source:local]config/fancymenu/assets/btn_o_hover.png
+  label = 
+}
+
+vanilla_button {
+  instance_identifier = mc_titlescreen_quit_button
+  anchor_point = mid-centered
+  width = 125
+  height = 20
+  x = -63
+  y = 45
+  backgroundnormal = [source:local]config/fancymenu/assets/btn_eg.png
+  backgroundhovered = [source:local]config/fancymenu/assets/btn_eg_hover.png
+  label = 
+}
+
+vanilla_button {
+  instance_identifier = title_screen_copyright_button
+  base_opacity = 0
+}
+
+vanilla_button {
+  instance_identifier = 376382
+  is_hidden = true
+}
+
+vanilla_button {
+  instance_identifier = 604382
+  is_hidden = true
+}
+
+vanilla_button {
+  instance_identifier = mc_titlescreen_realms_button
+  is_hidden = true
+}
+
+vanilla_button {
+  instance_identifier = minecraft_branding_widget
+  is_hidden = true
+}
+
+vanilla_button {
+  instance_identifier = minecraft_logo_widget
+  is_hidden = true
+}
+
+vanilla_button {
+  instance_identifier = minecraft_realms_notification_icons_widget
+  is_hidden = true
+}
+
+vanilla_button {
+  instance_identifier = minecraft_splash_widget
+  is_hidden = true
+}

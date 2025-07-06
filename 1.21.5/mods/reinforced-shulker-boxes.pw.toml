@@ -1,0 +1,13 @@
+name = "Reinforced Shulker Boxes"
+filename = "reinforced-shulker-boxes-3.4.2+1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xlOwuSdN/versions/VMJPAKWT/reinforced-shulker-boxes-3.4.2%2B1.21.5.jar"
+hash-format = "sha1"
+hash = "9149262b8b913b70499b26dd40fffc2e022baf86"
+
+[update]
+[update.modrinth]
+mod-id = "xlOwuSdN"
+version = "VMJPAKWT"

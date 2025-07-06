@@ -1,0 +1,13 @@
+name = "Reinforced Chests"
+filename = "reinforced-chests-3.3.2+1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FWtAXlpg/versions/dg4xesVT/reinforced-chests-3.3.2%2B1.21.5.jar"
+hash-format = "sha1"
+hash = "358709bb8d9b631a590c8d22fc80fcf77fc976cd"
+
+[update]
+[update.modrinth]
+mod-id = "FWtAXlpg"
+version = "dg4xesVT"

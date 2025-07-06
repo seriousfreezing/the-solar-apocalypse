@@ -1,0 +1,11 @@
+version:4325
+enableVsync:false
+simulationDistance:8
+menuBackgroundBlurriness:0.0
+resourcePacks:["fabric","file/Tom\u0027s Metal Storage v1.2 (1.21.1).zip","file/SodiumTranslations.zip","file/ApocalypseTweaks.zip","enderzoology:dynamically_copied_textures","tinyskeletons:dynamically_copied_skeleton_textures"]
+incompatibleResourcePacks:["file/Tom\u0027s Metal Storage v1.2 (1.21.1).zip"]
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.unknown
+key_key.travelersbackpack.cycle_tool:key.keyboard.j
+key_key.travelersbackpack.inventory:key.keyboard.v
+key_gui.xaero_new_waypoint:key.keyboard.h
