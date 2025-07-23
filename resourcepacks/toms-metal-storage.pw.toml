@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/nIS7bKS0/versions/wQUux8uy/Tom%27s%20Metal%20Storage%20v1.2%20%281.21.1%29.zip"
-hash-format = "sha1"
-hash = "4759ae87655f4b47ab46409e00173ecb6e9c70e4"
+hash-format = "sha512"
+hash = "0e3ad181f4e2db12801dd581e26608a588e40d75314d313380224b5f58f87e131cd27a61fd5c783202cb6bffb409d76db635f605c04a8a4bcbdf498bde9095ce"
 
 [update]
 [update.modrinth]

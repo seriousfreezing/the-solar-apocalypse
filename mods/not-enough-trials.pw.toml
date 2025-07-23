@@ -1,13 +1,13 @@
 name = "Not Enough Trials"
-filename = "NotEnoughTrials-1.21.5-v3.1.jar"
+filename = "NotEnoughTrials-1.21.6-v3.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1W5PhsYU/versions/46atnDZB/NotEnoughTrials-1.21.5-v3.1.jar"
-hash-format = "sha1"
-hash = "4469ae11f63cf400dfb37e0b02c325e08bf169f6"
+url = "https://cdn.modrinth.com/data/1W5PhsYU/versions/Xzje6Ry5/NotEnoughTrials-1.21.6-v3.1.jar"
+hash-format = "sha512"
+hash = "1163f1350df3fdd88048fb120ac79a0c9753474c0e8b8e4fbef6ecea7627c747e1483a8c28a08fc358486aa4600ead8453f39bbc15387750d24570798e56b999"
 
 [update]
 [update.modrinth]
 mod-id = "1W5PhsYU"
-version = "46atnDZB"
+version = "Xzje6Ry5"

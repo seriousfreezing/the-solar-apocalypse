@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/LN9BxssP/versions/euSlaAtA/supermartijn642configlib-1.1.8-fabric-mc1.21.jar"
-hash-format = "sha1"
-hash = "8427e42f1db8ea7b4b6c21cc94bfcfa398f0ff63"
+hash-format = "sha512"
+hash = "479838148fc1979409474b460de73162b7730c36b201eb903e299c144a056fed4f6dfb4498e0ded1e93a168379ff7efe0623279aa33a82b1b222c68468c477d6"
 
 [update]
 [update.modrinth]

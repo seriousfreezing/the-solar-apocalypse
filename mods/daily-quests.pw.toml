@@ -1,13 +1,13 @@
 name = "Daily Quests"
-filename = "dailyquests-1.21.5-2.2.jar"
+filename = "dailyquests-1.21.8-2.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/saq81j96/versions/9hcph7RX/dailyquests-1.21.5-2.2.jar"
+url = "https://cdn.modrinth.com/data/saq81j96/versions/HR5MSa6p/dailyquests-1.21.8-2.3.jar"
 hash-format = "sha512"
-hash = "45eaba835bc096095bc22ae9af9d399342be121fcd5129fb9cac3faf7b8020bd9b1885e6fe661ae50b3be4e810913b86a61a8c0242bae76707865cab4aca9291"
+hash = "da2b779f0d3777a115d92647837e95697ea5a8e00d10f0535b180b5e5f41ce07f681ae3599c584b4c6cabe492b3f1fd869ecf07866886af14e0c018b5e094a05"
 
 [update]
 [update.modrinth]
 mod-id = "saq81j96"
-version = "9hcph7RX"
+version = "HR5MSa6p"

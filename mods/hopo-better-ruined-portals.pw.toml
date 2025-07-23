@@ -1,13 +1,13 @@
 name = "Hopo Better Ruined Portals"
-filename = "HopoBetterRuinedPortals-[1.21.5]-1.4.6.jar"
+filename = "HopoBetterRuinedPortals-[1.21.6]-1.4.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hIpLSyga/versions/evvyMtKE/HopoBetterRuinedPortals-%5B1.21.5%5D-1.4.6.jar"
-hash-format = "sha1"
-hash = "99aacb35cf25bb44aa2fd812231d7daaa42c9380"
+url = "https://cdn.modrinth.com/data/hIpLSyga/versions/8HdtnSTx/HopoBetterRuinedPortals-%5B1.21.6%5D-1.4.7.jar"
+hash-format = "sha512"
+hash = "d9a4402b53e55bff7e451993bff577fc89f111da2e8b5ed845a05e5836ed268b431e9d64cf6db4a3d4a627bc8ef432664b4c5b1751ca7b9d353bd91624dc3d56"
 
 [update]
 [update.modrinth]
 mod-id = "hIpLSyga"
-version = "evvyMtKE"
+version = "8HdtnSTx"
