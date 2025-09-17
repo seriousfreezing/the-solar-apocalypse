@@ -1,0 +1,13 @@
+name = "Traveler's Backpack"
+filename = "travelersbackpack-fabric-1.21.8-10.8.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rlloIFEV/versions/HyKOfioX/travelersbackpack-fabric-1.21.8-10.8.1.jar"
+hash-format = "sha512"
+hash = "92221169190ce96c75a4fe16c5fcd9e304434c096fb1787afbae2be608e455679c2013592895aeaab04ea9097c33d89338e874331d5d77b7244d83ed952b2765"
+
+[update]
+[update.modrinth]
+mod-id = "rlloIFEV"
+version = "HyKOfioX"

@@ -1,13 +1,13 @@
 name = "Balkon's WeaponMod: Legacy"
-filename = "weaponmod-fabric-1.21.6-1.24.1.jar"
+filename = "weaponmod-fabric-1.21.6-1.24.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MCF15nCy/versions/DhhKklYA/weaponmod-fabric-1.21.6-1.24.1.jar"
+url = "https://cdn.modrinth.com/data/MCF15nCy/versions/uD2SmEfd/weaponmod-fabric-1.21.6-1.24.2.jar"
 hash-format = "sha512"
-hash = "12f8f76cbf4bf0ed956764b3c961cb6044e7b2feeabb58f484dcf3c94a0e5246922aed3a8df184bf26bf836f2c99adcf247bcfa5fa9283e43b0cd8ec4160d349"
+hash = "86d6247302f7a99017dfa3ff31ec2bd7ea3ae75a307e01c8f51540b46b54ed8b21719df4f724ea4d565860e279dbc16b49ca668739072d5e244a60df98d416b4"
 
 [update]
 [update.modrinth]
 mod-id = "MCF15nCy"
-version = "DhhKklYA"
+version = "uD2SmEfd"

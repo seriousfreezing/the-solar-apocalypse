@@ -125,6 +125,10 @@ file = "configureddefaults/config/trailiertales/worldgen.json5"
 hash = "1fbd70b6f6eb64c74f3d8c4f685d4565314e3ed48303845afbbf77aacf1c094c"
 
 [[files]]
+file = "configureddefaults/config/travelersbackpack.json5"
+hash = "7f353b29aac3f441cd0112ce6543922e21d8d1ba9dd55deb0a551d5ebfad4912"
+
+[[files]]
 file = "configureddefaults/config/weaponmod.json5"
 hash = "497b373a0a83a68d7fc5bb971a3007ad83dd7e4eca70630b62842c93c6e687d3"
 
@@ -142,7 +146,7 @@ hash = "f1c1617f677b3c2d2d5c6b6dae2067cde9e58e2563af69d84c5f3bbdc37d2191"
 
 [[files]]
 file = "mods/advanced-loot-info.pw.toml"
-hash = "e8113c94d800aba6fd0c34ca8dcdb59f14343aa29070a6e9337e17382d82e8af"
+hash = "6c04b24835e12b3f135d896ec0a36e670c42b0c974437493745e09c1b42c5606"
 metafile = true
 
 [[files]]
@@ -157,17 +161,22 @@ metafile = true
 
 [[files]]
 file = "mods/balkons-weaponmod-legacy.pw.toml"
-hash = "a71bf1007059efb5f3a4b6150a8e75ab8ddf589db82ea70e94cd3ca66c1fda0b"
+hash = "28098456ba5da184777ff6ea85ac583af93d1daefa5a30b7c17312c83e910f8d"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "0fb3ed7eaa615380d4d7844f0225f4ec4a6509cdfe01920387ed7b2bd923e4d7"
+hash = "307857742e77d6a95af92b963f890459aa62ddce3fe9bf707a91484f86c97ceb"
 metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "fe9c77327c94f4a60632f3a56a7a9496f9f2f00e12ab42541eb433266a423b16"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "974049895ae886659595771f83bd5a03da5b969b402a029694a2978d1ffd7aa0"
 metafile = true
 
 [[files]]
@@ -187,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "1718aa5bd89ed69f2e8b570b3ee6392c0c3a0f7f8ed1fa6277356dc8c83eb6bc"
+hash = "739023f9eb35a1654d7840d461137a67fdf88590761419454a892e8e0de07829"
 metafile = true
 
 [[files]]
@@ -232,12 +241,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "17d4083ec0d10cc2f5ca3a750b864dff5def75aa6c71f434ab701e2123e1b02c"
+hash = "f9b05ef1c6fb7e4d1c44b9468d7deacfe493d9f34182587e21ef1cb696fc677e"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
+hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
 metafile = true
 
 [[files]]
@@ -252,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/farming-for-blockheads.pw.toml"
-hash = "9da6fc78c22bf94a5e21b3b6a364a08ddcb3418a5f0622b6f1c8a22e52193d12"
+hash = "0ff932fc218731573aee5423a130e166162ef325b1a833d063b98de6bd293015"
 metafile = true
 
 [[files]]
@@ -262,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "bc0907d771d58c31fb8abd1ac78f7892f3ed10aac8525bc930fa4ac671714a04"
+hash = "2df76fcc5bacce682495502f342be0c1f74a33bf0835d80dd0d3d5fc0d2f3b19"
 metafile = true
 
 [[files]]
@@ -327,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "f4360b358a2607a715e0a361872b4d08c85e872f2f86c6ddf4c531fa6ff7cd25"
+hash = "a9630d395372cf3774c5751058bd944d4848adde75acc1c12187962cc0fe60ef"
 metafile = true
 
 [[files]]
@@ -367,12 +376,12 @@ metafile = true
 
 [[files]]
 file = "mods/measurements.pw.toml"
-hash = "b27ccc0123f03741c5c5165f37fe998966b5351477135a531a49ed5228e8d5d5"
+hash = "dbf57da317ee96dcca0e0692e9b381c4d15355a8b3809e73a80fa1ce1cf4d27a"
 metafile = true
 
 [[files]]
 file = "mods/medieval-buildings-end-edition.pw.toml"
-hash = "12ea9cb295dff47339519afd6023533029e9d928c1eff35adc68a5bb0fa88766"
+hash = "1a01510c8c3d4fcfcff5d0e1dbbe154c479f697c9307112aac317338e75ea546"
 metafile = true
 
 [[files]]
@@ -437,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
-hash = "649f66bf4fc55b40cd4abac1f8cd18ca51a300cd81a30ef64152416d11fbf20a"
+hash = "dcc2b287006dba9a6f1fabc5b877a30c26cf785dc0fc2085aa391b9f7337d15f"
 metafile = true
 
 [[files]]
@@ -502,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/spiky-spikes.pw.toml"
-hash = "6c3a14655a965300c83837f77d2b845da6b170590944e9b27c99c5e62297911c"
+hash = "a5d372308e50e96963520fb94ad21635bee97c4dd68f12e93a568b244637205b"
 metafile = true
 
 [[files]]
@@ -533,6 +542,11 @@ metafile = true
 [[files]]
 file = "mods/trailier-tales.pw.toml"
 hash = "ea4c4194cd47f65fe42226d4d43b4e4d49a577102626744971d99487e47bb218"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "dacdbbcdf09323f1ce3646dcddb4c10d791b0306aa0cedf3c4c97d9f5136d06e"
 metafile = true
 
 [[files]]
@@ -572,12 +586,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "a6fb7aeeb780fd5cc931a503737a4e03eaa735e19dba5e0e2c7138020304eee2"
+hash = "0d92d377131c1329a0f9c7211eaaef56340ff4aa61376c4523845d11dfe3fa1f"
 metafile = true
 
 [[files]]
 file = "resources/common/required/ApocalypseTweaks.zip"
-hash = "bd3c596131ee4add10e847ceaeb2d22daf708d0f7693f03b03348837f932af2e"
+hash = "b67a6ea0faf628d6a55acc7840d0c61b83a0edc9f0a61220090c32b4f4b09135"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt"
