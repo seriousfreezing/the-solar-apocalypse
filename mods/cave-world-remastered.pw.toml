@@ -1,0 +1,13 @@
+name = "Cave World Remastered"
+filename = "cave_world_remastered_v1.1(1.21.9+).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jLZkyiDr/versions/86aqMQQ7/cave_world_remastered_v1.1%281.21.9%2B%29.jar"
+hash-format = "sha512"
+hash = "75f9c97d4c664568ee8f9e629903ceff16974f67127e4d1b7886ff6e61f172dd3ce18cc0e4c1913b3e641a8f47eff7d36439469e34928cb59cf13f0913233453"
+
+[update]
+[update.modrinth]
+mod-id = "jLZkyiDr"
+version = "86aqMQQ7"

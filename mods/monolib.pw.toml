@@ -1,0 +1,13 @@
+name = "MonoLib"
+filename = "monolib-fabric-1.21.10-3.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9leXt4A5/versions/mkvClsE6/monolib-fabric-1.21.10-3.1.1.jar"
+hash-format = "sha512"
+hash = "942784d0042ba1c7e9630b1508af0fb45fa6cf73aa47f108089081ee27c80a839e5f1a3c42e4fb414378e228c5a21e2bee70e87e880b4dc6994209d6d289de13"
+
+[update]
+[update.modrinth]
+mod-id = "9leXt4A5"
+version = "mkvClsE6"

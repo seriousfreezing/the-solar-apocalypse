@@ -1,13 +1,13 @@
 name = "Configured Defaults"
-filename = "ConfiguredDefaults-v21.8.0-1.21.8-Fabric.jar"
+filename = "ConfiguredDefaults-v21.10.0+mc1.21.10-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SISoSFPP/versions/xGaEX1NS/ConfiguredDefaults-v21.8.0-1.21.8-Fabric.jar"
+url = "https://cdn.modrinth.com/data/SISoSFPP/versions/VnozxNCX/ConfiguredDefaults-v21.10.0%2Bmc1.21.10-Fabric.jar"
 hash-format = "sha512"
-hash = "262cd467fdb26c5e70fbf8d15700936f04cf1c5ae040128b5d9a913776c6802ce7cf77d90ebdeb4e1d14b7ce7ed7e68bbd27224ab7ba8d1e6788f690f7324841"
+hash = "3e8f2049806bb9677a49be2275e9d1ebb9c6eaa52e1827357440258dc3cd27bf0842a69a746a91d100145e73a0fcdb0e37b2dcce2da1a09de7f77ed46452c317"
 
 [update]
 [update.modrinth]
 mod-id = "SISoSFPP"
-version = "xGaEX1NS"
+version = "VnozxNCX"

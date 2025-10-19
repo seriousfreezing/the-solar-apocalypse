@@ -1,0 +1,13 @@
+name = "yyz's backpack"
+filename = "yyzsbackpack-21.9.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zO7tsTJN/versions/IsObMMyE/yyzsbackpack-21.9.4.jar"
+hash-format = "sha512"
+hash = "41f60fa59917e3681d8ebd73cc427ff8deca856837bc41adeb3cb91e4d4473888900709ba81347a273f325d0621701b5859eaf292cf896c3e969d706f5b266a2"
+
+[update]
+[update.modrinth]
+mod-id = "zO7tsTJN"
+version = "IsObMMyE"

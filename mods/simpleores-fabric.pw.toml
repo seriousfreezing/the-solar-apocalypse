@@ -1,0 +1,13 @@
+name = "SimpleOres Refabricated"
+filename = "simpleores-1.3.7-1.21.9-snapshot.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Boe3chj8/versions/GdcxbdIH/simpleores-1.3.7-1.21.9-snapshot.jar"
+hash-format = "sha512"
+hash = "ab6b70f73f8b7f640ed65025cdfee1d475cccd88790abf4683b6a0cbc6754dde6169a7d03f98d026de5fa7b749f52b79b7bce4e5ad05c6bff3b17515b7a026b0"
+
+[update]
+[update.modrinth]
+mod-id = "Boe3chj8"
+version = "GdcxbdIH"

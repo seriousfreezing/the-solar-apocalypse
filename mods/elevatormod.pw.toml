@@ -1,0 +1,13 @@
+name = "ElevatorMod"
+filename = "elevatorid-fabric-1.21.9-1.14.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hi2dSXTu/versions/HljZmdWE/elevatorid-fabric-1.21.9-1.14.5.jar"
+hash-format = "sha512"
+hash = "1868281b77397767b0d708b92be546aef51e2b25c5606c46d669d53d5d1bc8ed1b4525521c8b001b93a23c7bebd9e644fbc5bc4aa6d533805e76201b4446ed35"
+
+[update]
+[update.modrinth]
+mod-id = "hi2dSXTu"
+version = "HljZmdWE"

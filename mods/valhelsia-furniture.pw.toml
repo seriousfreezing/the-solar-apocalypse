@@ -1,0 +1,13 @@
+name = "Valhelsia Furniture"
+filename = "valhelsia_furniture-fabric-1.21.9-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qmCh2PxS/versions/MWdhYWRQ/valhelsia_furniture-fabric-1.21.9-1.1.0.jar"
+hash-format = "sha512"
+hash = "0e382d32233dd974b45443c7c03f6254a52dcc7830d009a04b8300163c2f5718627070e7bceff2f64eff71db5cfd5a953f98650fa798bbfd63518616ca9cfdac"
+
+[update]
+[update.modrinth]
+mod-id = "qmCh2PxS"
+version = "MWdhYWRQ"

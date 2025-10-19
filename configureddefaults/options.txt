@@ -3,8 +3,7 @@ enableVsync:false
 simulationDistance:8
 menuBackgroundBlurriness:0.0
 realmsNotifications:false
-resourcePacks:["fabric","file/Tom\u0027s Metal Storage v1.2 (1.21.1).zip","file/SodiumTranslations.zip","enderzoology:dynamically_copied_textures","tinyskeletons:dynamically_copied_skeleton_textures"]
-incompatibleResourcePacks:["file/Tom\u0027s Metal Storage v1.2 (1.21.1).zip"]
+resourcePacks:["fabric","file/SodiumTranslations.zip","enderzoology:dynamically_copied_textures","tinyskeletons:dynamically_copied_skeleton_textures"]
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
 key_gui.xaero_new_waypoint:key.keyboard.h

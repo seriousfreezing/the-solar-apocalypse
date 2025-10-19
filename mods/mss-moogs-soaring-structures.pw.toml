@@ -1,0 +1,13 @@
+name = "MSS - Moog's Soaring Structures"
+filename = "mss-1.3.8-1.21.9-1.21.10-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/RJCLIx7k/versions/WDQrnFSY/mss-1.3.8-1.21.9-1.21.10-fabric.jar"
+hash-format = "sha512"
+hash = "8c7a0298ec10e2835bd035bc007bca222c27bab674f8ea4aebe85e1157aa2c7a620fb16ef6bbf57a5821c1f2d3492d74f1272ff4b03f572229cbb564945cad08"
+
+[update]
+[update.modrinth]
+mod-id = "RJCLIx7k"
+version = "WDQrnFSY"

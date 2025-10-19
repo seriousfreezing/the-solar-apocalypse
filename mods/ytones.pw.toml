@@ -1,0 +1,13 @@
+name = "Ytones"
+filename = "Ytones-v21.10.0+mc1.21.10-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wTFALvR2/versions/W6zMMjvB/Ytones-v21.10.0%2Bmc1.21.10-Fabric.jar"
+hash-format = "sha512"
+hash = "f27b5b0fa502a5e9173407d5e2186939a89ddbb10e0aba089ad4a43c2f1b7fa6e501261893e203612f4dfb43539ad9cdaee3b23b5e8667fc024c07b8982ef06b"
+
+[update]
+[update.modrinth]
+mod-id = "wTFALvR2"
+version = "W6zMMjvB"

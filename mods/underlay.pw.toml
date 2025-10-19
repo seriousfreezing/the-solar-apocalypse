@@ -1,0 +1,13 @@
+name = "Underlay"
+filename = "underlay-1.21.9-v0.9.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iltKD9qU/versions/zt6YNTbZ/underlay-1.21.9-v0.9.7.jar"
+hash-format = "sha512"
+hash = "b46a22c23c69a19144f70f5d8f840d6ad6519fac91833df1d490af10572b3680cae8f23e89beb10be36a437c3ea83f3a90a95190f1e157b8613f2348cd227962"
+
+[update]
+[update.modrinth]
+mod-id = "iltKD9qU"
+version = "zt6YNTbZ"

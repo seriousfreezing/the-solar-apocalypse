@@ -1,0 +1,13 @@
+name = "Silkier Touch"
+filename = "silkiertouch-1.21.10-1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/dUaXeoyM/versions/vh24JGZm/silkiertouch-1.21.10-1.1.jar"
+hash-format = "sha512"
+hash = "3d424d47cbe6d0c86bfbb9dc70003e6a8f80a4c139057412879638a7f433b2c77fd4b4b027c94c8565075e3162d1d75976ba17e8ebc8f16d9dcb41fb7ee7768a"
+
+[update]
+[update.modrinth]
+mod-id = "dUaXeoyM"
+version = "vh24JGZm"

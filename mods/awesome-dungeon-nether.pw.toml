@@ -1,0 +1,13 @@
+name = "Awesome Dungeon Nether"
+filename = "awesomedungeonnether-fabric-1.21.9-3.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/gW1httFP/versions/57TC3Ara/awesomedungeonnether-fabric-1.21.9-3.1.1.jar"
+hash-format = "sha512"
+hash = "47c323bd2e961e93bd1e86359649f4562be6dfaa44cff96e87c16f8ed331fd6cc8151fb47cb076b382268ea6ee720f9a38ff1dac5bc5ca174f47b4ee8c614724"
+
+[update]
+[update.modrinth]
+mod-id = "gW1httFP"
+version = "57TC3Ara"

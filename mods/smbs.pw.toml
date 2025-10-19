@@ -1,0 +1,13 @@
+name = "Simple Mob Buff System"
+filename = "smbs-1.0.4+1.21.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GAArqhdA/versions/Frvrb60x/smbs-1.0.4%2B1.21.10.jar"
+hash-format = "sha512"
+hash = "302dc36ce35d403be1fb5a8c880a4f058074bb707ba7a9c8efbbbdbe8010d0767e32971b253eed2b6b8f061dd795f167b29747be1ab843a666d6971c379ad03b"
+
+[update]
+[update.modrinth]
+mod-id = "GAArqhdA"
+version = "Frvrb60x"

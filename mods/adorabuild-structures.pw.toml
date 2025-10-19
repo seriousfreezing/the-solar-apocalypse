@@ -1,0 +1,13 @@
+name = "AdoraBuild: Structures"
+filename = "adorabuild-structures-2.10.1-fabric-1.21.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rYlnn25U/versions/hsoYJ6td/adorabuild-structures-2.10.1-fabric-1.21.10.jar"
+hash-format = "sha512"
+hash = "07cb16de32fa298be16f644e92e37d838888b1dccde09a5b8c3dc263eec5e4c4cafe73f0e5ef26c1ac2e000d3c277e2c9fbf72edd82b52ba928a387e364c5e0e"
+
+[update]
+[update.modrinth]
+mod-id = "rYlnn25U"
+version = "hsoYJ6td"
