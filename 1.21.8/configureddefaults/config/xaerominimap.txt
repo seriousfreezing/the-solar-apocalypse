@@ -1,0 +1,4 @@
+ignoreUpdate:1
+updateNotification:false
+minimapFrame:1
+minimapFrameColor:0

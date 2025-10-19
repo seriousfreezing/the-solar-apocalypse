@@ -1,0 +1,13 @@
+name = "Simple Menu"
+filename = "simplemenu-1.21.8-2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6pdhya1q/versions/zs3Ecc5N/simplemenu-1.21.8-2.0.jar"
+hash-format = "sha512"
+hash = "0491b4d803c17ef6e9fd63c49e475a0058dbe17d95de59aa02a9825c9d622b23db7784cc86c91df8a27b680bcd7bfe00a1af14b26045e8f0e40679880e044cf6"
+
+[update]
+[update.modrinth]
+mod-id = "6pdhya1q"
+version = "zs3Ecc5N"

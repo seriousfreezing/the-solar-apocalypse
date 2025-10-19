@@ -1,0 +1,13 @@
+name = "Hammering"
+filename = "hammering-3.2.1-build.b4+mc1.21.6-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mBPfL1U7/versions/qoEbC9WT/hammering-3.2.1-build.b4%2Bmc1.21.6-fabric.jar"
+hash-format = "sha512"
+hash = "0bd7b6bd051b1c75f0fdd5fe73de766028b382f0eb701804ccb73e08d8abbcd50337fd139d57eb2683b5377d261fd87e6e13f16bd424e683ac0e4f6a4afbd73f"
+
+[update]
+[update.modrinth]
+mod-id = "mBPfL1U7"
+version = "qoEbC9WT"

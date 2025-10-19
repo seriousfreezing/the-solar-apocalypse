@@ -1,0 +1,13 @@
+name = "Measurements"
+filename = "Measurements-fabric-1.21.8-3.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wLINU2AB/versions/rvqCSNxn/Measurements-fabric-1.21.8-3.5.0.jar"
+hash-format = "sha512"
+hash = "7e01ab7d725226ec8b95df689518c28ade97bf0c1937bd29ccf833c1d55667dd923271992013f2d7ad1db3431ee1eba9d455c048b861c2e8bcadf298fe6e1f45"
+
+[update]
+[update.modrinth]
+mod-id = "wLINU2AB"
+version = "rvqCSNxn"
