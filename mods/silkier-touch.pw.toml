@@ -1,6 +1,6 @@
 name = "Silkier Touch"
 filename = "silkiertouch-1.21.10-1.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/dUaXeoyM/versions/vh24JGZm/silkiertouch-1.21.10-1.1.jar"

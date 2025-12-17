@@ -1,6 +1,6 @@
 name = "Glide Away!"
 filename = "glideaway-1.7.0+1.21.9-rc1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/iWkVbeKr/versions/HMsbgNW4/glideaway-1.7.0%2B1.21.9-rc1.jar"

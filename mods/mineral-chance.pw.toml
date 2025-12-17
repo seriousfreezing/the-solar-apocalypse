@@ -1,6 +1,6 @@
 name = "Mineral Chance"
 filename = "mineralchance-1.21.10-3.8.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/bu1hACOl/versions/g9C3kNER/mineralchance-1.21.10-3.8.jar"

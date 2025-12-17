@@ -1,6 +1,6 @@
 name = "Extreme sound muffler"
 filename = "ExtremeSoundMuffler-3.51_Fabric-1.21.9.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/5IIKsxiL/versions/op19Lj9u/ExtremeSoundMuffler-3.51_Fabric-1.21.9.jar"

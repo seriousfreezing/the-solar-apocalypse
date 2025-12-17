@@ -1,6 +1,6 @@
 name = "Cave Spider Spawn"
 filename = "cavespiderspawn-1.21.10-1.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9IUlkb2K/versions/XuSP0eDo/cavespiderspawn-1.21.10-1.2.jar"

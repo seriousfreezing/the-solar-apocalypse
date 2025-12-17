@@ -1,6 +1,6 @@
 name = "Awesome Dungeon Nether"
 filename = "awesomedungeonnether-fabric-1.21.9-3.1.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gW1httFP/versions/57TC3Ara/awesomedungeonnether-fabric-1.21.9-3.1.1.jar"

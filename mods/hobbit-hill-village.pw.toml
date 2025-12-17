@@ -1,6 +1,6 @@
 name = "Lios Hobbit Hill Village"
 filename = "hobbit_hill_village-0.0.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/zI84EmO0/versions/vsZ1jlWu/hobbit_hill_village-0.0.2.jar"

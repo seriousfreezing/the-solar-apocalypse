@@ -1,13 +1,13 @@
 name = "Macaw's Trapdoors"
-filename = "mcw-trapdoors-1.1.4-mc1.21.10fabric.jar"
+filename = "mcw-trapdoors-1.1.5-mc1.21.10fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/n2fvCDlM/versions/NBo4JDPX/mcw-trapdoors-1.1.4-mc1.21.10fabric.jar"
+url = "https://cdn.modrinth.com/data/n2fvCDlM/versions/JTtf9wKh/mcw-trapdoors-1.1.5-mc1.21.10fabric.jar"
 hash-format = "sha512"
-hash = "2de755554db0caf18b96c949ec4a3d17a30d586066973a7ddda81314340b5046f91d365f285b610a454d6db67826a14be503d48f08f4bb33faa099a43a58a57d"
+hash = "4ac6fd1d8002a06a1b4d91d748a982f94a89a48dbe1c3587cb7b7c6885be53d770bc9a6877ef744df8a00af362497ce23f4160833573fae435df7126cc1e04e2"
 
 [update]
 [update.modrinth]
 mod-id = "n2fvCDlM"
-version = "NBo4JDPX"
+version = "JTtf9wKh"

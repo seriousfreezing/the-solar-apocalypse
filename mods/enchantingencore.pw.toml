@@ -1,6 +1,6 @@
 name = "EnchantingEncore"
 filename = "EnchantingEncore-1.0.0+1.21.10.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/kL7xmVFE/versions/7aeRJTDs/EnchantingEncore-1.0.0%2B1.21.10.jar"

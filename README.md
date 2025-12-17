@@ -1,37 +1,37 @@
-![Banner](https://i.imgur.com/JBgvxu4.png)
+![banner](https://cdn.modrinth.com/data/cached_images/44aaafb3f29c7022adc6694fead7b2ba297d4e90_0.webp)
 
-**The Solar Apocalypse** is a modpack focused on bringing you a **fresh and difficult** experience. There are several features to enhance your experience, such as: a **thirst system**, a **temperature system** and **full of new behaviors.**
+<p align="center">
+  <a href="https://www.curseforge.com/minecraft/modpacks/the-solar-apocalypse"><img src="https://badges.penpow.dev/badges/available/curseforge/cozy.svg" alt="curseforge"></a>
+  <a href="https://seriousfreezing.gitbook.io/the-solar-apocalypse/"><img src="https://badges.penpow.dev/badges/documentation/docs-rs/cozy.svg" alt="documentation"></a>
+  <a href="https://seriousfreezing.gitbook.io/the-solar-apocalypse/installation-guide"><img src="https://badges.penpow.dev/badges/documentation/setup/cozy.svg" alt="installation-guide"></a>
+</p>
 
-# 📥 Installation Guide
-> [!WARNING]
-> Back up your files before you do anything.
+<br>![about](https://cdn.modrinth.com/data/cached_images/18dc4e80d4f35db37f3728f2bc4e431d24c2b261.png)
 
-<details>
-<summary>Client-side</summary>
+Everything was in perfect balance — the flora thrived, the fauna followed their natural rhythm.
+Until one day, the **_SUN_** began to act strangely. Each sunrise seemed **brighter, hotter... BIGGER.**
+Why is the **_SUN_** changing? What should you do? ~~Who will survive?~~
 
-- **[ATLauncher](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/361/)**
-- **[CurseForge Launcher](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/160)**
-- **[GDLauncher](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/142)**
-- **[Modrinth Launcher](https://support.modrinth.com/en/articles/8802250-modpacks-on-modrinth)**
-</details>
+The Solar Apocalypse is a **challenge-focused** modpack designed to take you on a difficult and ever-evolving survival experience. Inspired by elements of Project Zomboid, it reimagines Minecraft with new threats, a harsher environment, and new behaviors that **force you to adapt.**
 
-<details>
-<summary>Server-side</summary>
+On day 5, the Sun ignites every surface block. By day 10, anything exposed begins to burn. From day 15 to 100, its heat consumes the world layer by layer—descending from height 100 until reaching layer 0. For versions below **27.0+beta**, [click here.](https://seriousfreezing.gitbook.io/the-solar-apocalypse/getting-started)
 
-  - **[Docker Compose](https://docker-minecraft-server.readthedocs.io/en/latest/)**
-  - **[mcman](https://github.com/ParadigmMC/mcman)**
-- <details>
-  <summary><strong>Packwiz</strong></summary>
+<br>![features](https://cdn.modrinth.com/data/cached_images/374a8e0ed107180eff1aa9e9b4e2c49fd0782984.png)
 
-  Download the [packwiz-installer-bootstrap](https://github.com/packwiz/packwiz-installer-bootstrap/releases), move it to the **root folder** of your server, and add the following command to your **pre-launch command**: 
-   ```
-   java -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githubusercontent.com/seriousfreezing/SolarApocalypse/refs/heads/main/versions/supported/1.2x.x/index.toml
-  ```
-   - **Change the Minecraft version you want.**  
-</details>
+Discover a modpack built to challenge you, surprise you, and push your survival instincts to the limit. **The Solar Apocalypse** reshapes the familiar world of Minecraft with dangerous events, smarter creatures, and a **_SUN_** that becomes deadlier every day. If you want a modpack that feels fresh, intense, and carefully crafted, this is **the one.**
 
----
-> [!NOTE]
-> Copyright © 2025 SeriousFreezing. [GPL-3.](https://www.gnu.org/licenses/gpl-3.0.html#license-text)  
-> Some artwork is licensed under CC-NC-ND. [Learn More.](https://seriousfreezing.gitbook.io/thesolarapocalypse/disclaimers)  
-> Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
+### Challenge, Reinvented
+- Designed for players who love **danger and exploration.**
+- Creatures **behave differently**, and timed events escalate the challenge. [Learn more.](https://seriousfreezing.gitbook.io/the-solar-apocalypse/getting-started)
+
+### Smooth as Butter
+- Enjoy **top-tier** performance and convenience in one place.
+- **Hand-picked** optimization mods, bug fixes, and in-game downloads for shaders, worlds, datapacks, and resource packs.
+
+### Always New, Always Solid
+- Each major Minecraft update brings a fresh season with **new mods**, adventures, and discoveries.
+- Still **stable** and reliable thanks to being fully open-source and comes with detailed documentation.
+
+<br>![divider](https://cdn.modrinth.com/data/cached_images/2c877fa56907fe9b751c85433ce77932a93b8a25.png)
+
+[![bisecthosting](https://cdn.modrinth.com/data/cached_images/807250b9aa8938ec06e1b11b2fdf5fa9732a0161_0.webp)](https://s.42l.fr/R6m8dLwO)

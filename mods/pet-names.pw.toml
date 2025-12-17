@@ -1,6 +1,6 @@
 name = "Pet Names"
 filename = "petnames-1.21.10-3.5.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/tOoh2eQm/versions/UFI464fZ/petnames-1.21.10-3.5.jar"

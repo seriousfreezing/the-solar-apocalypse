@@ -1,6 +1,6 @@
 name = "MSS - Moog's Soaring Structures"
 filename = "MoogsSoaringStructures-1.21-2.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/RJCLIx7k/versions/MSUM0j0G/MoogsSoaringStructures-1.21-2.0.0.jar"

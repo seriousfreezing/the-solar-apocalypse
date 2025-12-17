@@ -1,6 +1,6 @@
 name = "MNS - Moog's Nether Structures"
 filename = "MoogsNetherStructures-1.21-2.0.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/nGUXvjTa/versions/t8gohniL/MoogsNetherStructures-1.21-2.0.1.jar"
