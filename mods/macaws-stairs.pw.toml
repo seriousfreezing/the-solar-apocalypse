@@ -1,13 +1,13 @@
 name = "Macaw's Stairs"
-filename = "mcw-stairs-1.0.1-mc1.21.10fabric.jar"
+filename = "mcw-mcwstairs-1.0.2-mc1.21.10fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iP3wH1ha/versions/j6m3MI7L/mcw-stairs-1.0.1-mc1.21.10fabric.jar"
+url = "https://cdn.modrinth.com/data/iP3wH1ha/versions/cpTQK4Yc/mcw-mcwstairs-1.0.2-mc1.21.10fabric.jar"
 hash-format = "sha512"
-hash = "f1f69cda3a42fe359a3399b0ce841d5ed5016df1eaa7124dcf23b4b56b9b03b39cb1b285ee9ee6e3820edaae7b5d634545e44c96e55244b2e6972e98e57202c8"
+hash = "23cbfac6c989a42521ae518449564a97e41cc7fddc81aa8d38e1c9137819d87e86eea4d986aa4083ca95d9ecc536aab4399e0058cb7506945450efa2fc4f5d22"
 
 [update]
 [update.modrinth]
 mod-id = "iP3wH1ha"
-version = "j6m3MI7L"
+version = "cpTQK4Yc"

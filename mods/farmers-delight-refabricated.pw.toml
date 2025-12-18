@@ -1,13 +1,13 @@
 name = "Farmer's Delight Refabricated"
-filename = "FarmersDelight-1.21.10-3.4.1+refabricated.jar"
+filename = "FarmersDelight-1.21.10-3.4.2+refabricated.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7vxePowz/versions/uWzG0tGX/FarmersDelight-1.21.10-3.4.1%2Brefabricated.jar"
+url = "https://cdn.modrinth.com/data/7vxePowz/versions/KPW4qVOo/FarmersDelight-1.21.10-3.4.2%2Brefabricated.jar"
 hash-format = "sha512"
-hash = "5b35b3dec7f4ffc80112a004892ecf4cb4c550cce62c7ec2c48b4acc918c16599407e532c6d7d9b117773d0fb36c6a033af3806d0fbbac944fa197bf8230b3a7"
+hash = "a17f8df9f3c71d1bd98be455113a38f49fc96596ea7c6dfc2a77271aa5e2cbe7262f05935bc26c81dcac5dbc2a508beff8f41106b3f0268d1e563255a81631f9"
 
 [update]
 [update.modrinth]
 mod-id = "7vxePowz"
-version = "uWzG0tGX"
+version = "KPW4qVOo"
