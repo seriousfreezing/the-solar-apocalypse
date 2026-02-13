@@ -1,0 +1,13 @@
+name = "Factory Blocks"
+filename = "factory_blocks-fabric-1.4.2+mc1.21.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ht0eTMEs/versions/bJuzhaNC/factory_blocks-fabric-1.4.2%2Bmc1.21.10.jar"
+hash-format = "sha512"
+hash = "9d0f3f25f3c2b2ddd9f1a1121ead20b441c4c170199b6987164f8ee8221eac0fb92ff71b49321b21b34b38d54052ff17490cf926b48aa75f2496672b48c6fa8e"
+
+[update]
+[update.modrinth]
+mod-id = "ht0eTMEs"
+version = "bJuzhaNC"

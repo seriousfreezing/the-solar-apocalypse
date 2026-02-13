@@ -1,0 +1,13 @@
+name = "Valhelsia Core"
+filename = "valhelsia_core-fabric-1.21.10-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HsdNFinx/versions/m9eGvqgz/valhelsia_core-fabric-1.21.10-1.1.5.jar"
+hash-format = "sha512"
+hash = "e1ae4258a40fa959c10348e5b33280a26ddf2dda2f30303dffa8c0bd1f2924c3edb91853e373b4fbe7aefc559347c7892291dab2f47d459e6901f59a7636a531"
+
+[update]
+[update.modrinth]
+mod-id = "HsdNFinx"
+version = "m9eGvqgz"

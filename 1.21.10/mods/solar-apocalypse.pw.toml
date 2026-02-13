@@ -1,0 +1,13 @@
+name = "Solar Apocalypse"
+filename = "solar-apocalypse-1.9.18.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wkKhe1pU/versions/TUivF0pO/solar-apocalypse-1.9.18.jar"
+hash-format = "sha512"
+hash = "53f7748119017685a8e8d511dd3bd780d34c7a85d0ebb800a46c1fea311ef98a4909568046d9a89f6d80cbdcf5550783fdd70a54fe733262cb5d19650c80c7a5"
+
+[update]
+[update.modrinth]
+mod-id = "wkKhe1pU"
+version = "TUivF0pO"

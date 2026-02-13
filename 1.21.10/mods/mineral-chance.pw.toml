@@ -1,0 +1,13 @@
+name = "Mineral Chance"
+filename = "mineralchance-1.21.10-3.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bu1hACOl/versions/g9C3kNER/mineralchance-1.21.10-3.8.jar"
+hash-format = "sha512"
+hash = "1db3ac7ca7cfb6f6ca5b12b855b1a606c5d15ab9ecd339387b14ae586d3906891609c5fc55b347176a10a64e045c63aaaa440925e90220d2964e4e3e63f99433"
+
+[update]
+[update.modrinth]
+mod-id = "bu1hACOl"
+version = "g9C3kNER"

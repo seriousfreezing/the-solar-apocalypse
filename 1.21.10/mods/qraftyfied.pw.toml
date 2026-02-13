@@ -1,0 +1,13 @@
+name = "qraftyfied: STRUCTURES"
+filename = "qraftyfied-10.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ibnDR6oc/versions/sAIMT47F/qraftyfied-10.0.2.jar"
+hash-format = "sha512"
+hash = "f930e4b0beae20f0edb8030210560f0f404f690ad76930255da2575a2046fba2ec9cd7049ef3db6049bdf9102c3ba457c31777f310a9fc17761195bcc3ab074c"
+
+[update]
+[update.modrinth]
+mod-id = "ibnDR6oc"
+version = "sAIMT47F"

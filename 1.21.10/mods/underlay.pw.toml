@@ -1,0 +1,13 @@
+name = "Underlay"
+filename = "underlay-0.9.9-fabric-mc1.21.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iltKD9qU/versions/CD2OAMir/underlay-0.9.9-fabric-mc1.21.9.jar"
+hash-format = "sha512"
+hash = "e0a97196d20ff80ee573cedf6c5ee4b00e9363c0dd49b22d5559a9b0a8f763a1dcec99d2eb24674718bc0f3fd16bc2986868487bd83095721306b07180f11132"
+
+[update]
+[update.modrinth]
+mod-id = "iltKD9qU"
+version = "CD2OAMir"

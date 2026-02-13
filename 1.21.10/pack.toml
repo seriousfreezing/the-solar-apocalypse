@@ -1,0 +1,16 @@
+name = "the-solar-apocalypse"
+author = "SeriousFreezing"
+version = "28.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5c3d636886c08f5c2ecd1d14c0ea962e3805e532d0e09c9ae02c297cb30d62f0"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.10"
+
+[options]
+acceptable-game-versions = ["1.21.9"]

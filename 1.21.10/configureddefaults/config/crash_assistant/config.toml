@@ -1,0 +1,34 @@
+[general]
+	help_link = "www.discord.gg/6bteKWqkcZ"
+	upload_to = "mclo.gs"
+	show_on_fml_error_screen = false
+	generate_localization_overrides_folder_with_readme = false
+	logs_priority_overrides = ["CRASH_REPORT","LOG"]
+
+[text]
+	support_name = "SeriousFreezing"
+	support_place = "#🔧support"
+	modpack_name = "The Solar Apocalypse"
+
+[generated_message]
+	one_line_logs = false
+	text_under_crashed = "<b>Please fill out before posting:</b><br>- Minecraft version:<br>- Modpack version:<br>- Steps to reproduce (short):<br>- OS & version (Windows/Mac/Linux):<br>- Java version & JVM args (if known):<br>- Recently added/updated mods (if any):<br><br>Upload link (if not attached automatically): {UPLOAD_LINK}<br><br>Optional: any screenshots or additional notes that may help reproduce the issue."
+	warning_after_upload_all_button_press = "Please complete the form above before posting — incomplete reports slow down troubleshooting. Do NOT include personal data (paths with your name, API keys, passwords). The crash report will already contain logs and modlist."
+
+[modpack_modlist]
+	modpack_creators = ["SeriousFreezing"]
+	add_resourcepacks = true
+
+[greeting]
+	shown_greeting = true
+
+[gui_customisation]
+	screenshot_of_gui_notice_animated_border = false
+	upload_all_button_font_size = 12
+	request_help_button_font_size = 12
+	upload_all_button_foreground_color = "0_0_0"
+	request_help_button_foreground_color = "0_0_0"
+	auto_fix_button_font_size = 12
+	auto_fix_button_foreground_color = "0_0_0"
+	modpack_logo_path = "./configureddefaults/config/simplemenu/icon/icon_32x32.png"
+	modpack_logo_large_mode = true

@@ -1,0 +1,13 @@
+name = "Wabi-Sabi Structures"
+filename = "Wabi-Sabi Structures 3.0.4-1.21.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vr3O6THr/versions/CdnNj0hO/Wabi-Sabi%20Structures%203.0.4-1.21.9.jar"
+hash-format = "sha512"
+hash = "d9a5541ccfe10514b69272a9a022c73f907423f9fef060ef136bcc94936a04c77eefff0a77781d728c1080d6b6ede44838d14a4fa13bcd02636486aae86947fa"
+
+[update]
+[update.modrinth]
+mod-id = "Vr3O6THr"
+version = "CdnNj0hO"
