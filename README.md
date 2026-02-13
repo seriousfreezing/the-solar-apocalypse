@@ -1,4 +1,4 @@
-### This branch is reserved for the **Depreciated version** of The Solar Apocalypse. There will never be any updates or support.
+### This branch is reserved for the DEPRECATED versions of The Solar Apocalypse. There will NEVER be any UPDATES or SUPPORT.
 ### ⚠️ [Want to fork The Solar Apocalypse?](https://seriousfreezing.gitbook.io/thesolarapocalypse/disclaimers)
 ---
 > [!NOTE]
