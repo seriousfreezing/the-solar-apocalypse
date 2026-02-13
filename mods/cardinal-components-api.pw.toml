@@ -1,0 +1,13 @@
+name = "Cardinal Components API"
+filename = "cardinal-components-api-7.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K01OU20C/versions/tEsBSUgb/cardinal-components-api-7.3.0.jar"
+hash-format = "sha512"
+hash = "ec93427bef05b6c198d7cc20270b81edc72a7b117ed87c96b0324fef10383ed994dddb21d9814d581737e0ab35a278d9e43d53d25722d8b70e1e47c9628d978a"
+
+[update]
+[update.modrinth]
+mod-id = "K01OU20C"
+version = "tEsBSUgb"

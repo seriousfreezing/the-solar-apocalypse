@@ -1,13 +1,13 @@
 name = "Lios Hobbit Hill Village"
-filename = "hobbit_hill_village-0.0.2.jar"
+filename = "hobbit_hill_village-0.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zI84EmO0/versions/vsZ1jlWu/hobbit_hill_village-0.0.2.jar"
+url = "https://cdn.modrinth.com/data/zI84EmO0/versions/v2P1OitK/hobbit_hill_village-0.0.3.jar"
 hash-format = "sha512"
-hash = "0859615b97c1d0aad41f2fc84b0bdb8f8588c9ffbdc1597802de069599d62eba33244fe95f03ae2415b0f82dda7898506e99a6f8ad4320261112529b5afceea7"
+hash = "089c65f549bc4f8f9a396a0936266f3f1213a2640d3cf51af0dd495d526083aabd55b9f55aa9162376db3c2161519f7fc414713414a7495a85be7871dfea1d68"
 
 [update]
 [update.modrinth]
 mod-id = "zI84EmO0"
-version = "vsZ1jlWu"
+version = "v2P1OitK"

@@ -1,6 +1,6 @@
 version = 1
 itemFrameLODRange = 16
 itemFrame3FaceCullingRange = 2.0
-leavesCullingMode = "CHECK"
+leavesCullingMode = "DEPTH"
 includeMangroveRoots = true
 endGatewayCulling = true

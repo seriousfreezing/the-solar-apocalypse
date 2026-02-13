@@ -1,13 +1,13 @@
 name = "Echo Chest"
-filename = "EchoChest-v21.10.0+mc1.21.10-Fabric.jar"
+filename = "EchoChest-v21.11.0-mc1.21.11-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/m3pkVbY8/versions/H5gCWJzG/EchoChest-v21.10.0%2Bmc1.21.10-Fabric.jar"
+url = "https://cdn.modrinth.com/data/m3pkVbY8/versions/UnrA4zZi/EchoChest-v21.11.0-mc1.21.11-Fabric.jar"
 hash-format = "sha512"
-hash = "a619b41df051e42433df6fc99d4e9cd9374a53d6fefc53782867cafb2f3846729ba519aba54eaf6a142d06e90e058cfdf204f10a84e5405c06248231a00ff001"
+hash = "0d1e4f3f2853be2661452944048bb3db6d70d15980ac0cca742090fd72af7d2df0a721a3f013ba70f5a195b441c78827219827db91c22d87c6255cf9cd65bc41"
 
 [update]
 [update.modrinth]
 mod-id = "m3pkVbY8"
-version = "H5gCWJzG"
+version = "UnrA4zZi"

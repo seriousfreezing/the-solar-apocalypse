@@ -1,13 +1,13 @@
 name = "Nullscape"
-filename = "Nullscape_1.21.x_v1.2.14.jar"
+filename = "Nullscape_1.21.x_v1.2.16.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LPjGiSO4/versions/3fv8O3xX/Nullscape_1.21.x_v1.2.14.jar"
+url = "https://cdn.modrinth.com/data/LPjGiSO4/versions/jFDyNQ0I/Nullscape_1.21.x_v1.2.16.jar"
 hash-format = "sha512"
-hash = "b35a9dfdc7180ca851aea378ee4687e18b3aae717c16870a7762afc67dc0c77598fb2c4a62cb12d6ed0eacf7c9166520e0a3e7dce20da09817065d27e62c8b44"
+hash = "070b224e0c0946f28b330d9e11fc62230aee721619fced5085e277b3318a37497f061c22a2305b8aaea6cb9b99ecb603ac8320b57bd2c01dd7d1d2b636a46f45"
 
 [update]
 [update.modrinth]
 mod-id = "LPjGiSO4"
-version = "3fv8O3xX"
+version = "jFDyNQ0I"

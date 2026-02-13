@@ -1,13 +1,13 @@
 name = "Tough As Nails"
-filename = "ToughAsNails-fabric-1.21.10-21.10.0.0.jar"
+filename = "ToughAsNails-fabric-1.21.11-21.11.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ge1sOdFH/versions/Ed7sVuhC/ToughAsNails-fabric-1.21.10-21.10.0.0.jar"
+url = "https://cdn.modrinth.com/data/ge1sOdFH/versions/Q9iXHxOV/ToughAsNails-fabric-1.21.11-21.11.0.3.jar"
 hash-format = "sha512"
-hash = "3350011e17202d7b4493da292684d87a7efa1cd14c31e7f946327d515da6d7d6926857e2bcbf2f7f60560f58916b6965f36b3816478916b86c2d157d0300862b"
+hash = "d79931581364aa067b5acf799472da054faf8b58b691de6008873f7fcbcf7cfb2d63c54a22f2dff14d0fc8f4399e7f1edbc4d650639dd3f632043fc8114ef2cc"
 
 [update]
 [update.modrinth]
 mod-id = "ge1sOdFH"
-version = "Ed7sVuhC"
+version = "Q9iXHxOV"

@@ -1,5 +1,7 @@
 enableVsync:false
+textureFiltering:1
+maxFps:60
 simulationDistance:8
-menuBackgroundBlurriness:0.0
 realmsNotifications:false
-resourcePacks:["fabric","file/SodiumTranslations.zip","enderzoology:dynamically_copied_textures","tinyskeletons:dynamically_copied_skeleton_textures"]
+menuBackgroundBlurriness:0.0
+resourcePacks:["file/SodiumTranslations.zip"]
