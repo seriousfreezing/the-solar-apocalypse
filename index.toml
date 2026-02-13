@@ -1,8 +1,25 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Comando.txt"
-hash = "4bfd5b98f4dfc2dffa9dde274d713fdeca0b78dfbff47683454f289e33b69ee8"
+file = ".github/FUNDING.yml"
+hash = "aec550f8a4ff790acda88ca8096c1af425c4538f6fbd8df75bd6810283f924b3"
+
+[[files]]
+file = ".github/ISSUE_TEMPLATE/bug-report.md"
+hash = "6373de482af0ee81d76c58c85bd3e98d772ef0d6e24ed57252619a0dd11d5558"
+
+[[files]]
+file = ".github/ISSUE_TEMPLATE/feature-request.md"
+hash = "2de591ab084e48a877ec41f21d7f2e001edd5a05a70b174a5c9bee418235ae94"
+
+[[files]]
+file = "LICENSE"
+hash = "1b2569d37b9d98d52eb12d2c6789ee8c0982d1f89fc53f253ad833434e81d9d0"
+
+[[files]]
+file = "complementary-unbound.pw.toml"
+hash = "7957e0a7f484ed89e17321b8eb365f29e93c3f152a61fd3d5c0c2ce36e9faac0"
+metafile = true
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -197,10 +214,6 @@ file = "config/yosbr/options.txt"
 hash = "11c1148cc95feef07d19a8860ddfb67f03f8757a696d3f44ddce1afa1f47ed6b"
 
 [[files]]
-file = "datapacks/qrafty's-underground-villages.zip"
-hash = "f911957be66a126fd808dec9535dcdced225ea72db29f6bb177664cef3ee95a8"
-
-[[files]]
 file = "mods/advancement-plaques-fabric.pw.toml"
 hash = "1effb00f5e92c2121f0c1663e1de9dae42b355597807cd55135ab7583f3a5232"
 metafile = true
@@ -226,12 +239,14 @@ hash = "98db49886e214a2c9fafb7661742754e91ce39583f3b62fcca33ae37db6ca1fc"
 metafile = true
 
 [[files]]
-file = "mods/bat-membrane-v.2.1.0.jar"
-hash = "dfac49bfc3ac99a4d2ba7079c96659036317e2b84c584f3d5c0ad4d59ce8cfb3"
+file = "mods/bat-membrane.pw.toml"
+hash = "d85c62cb681a4d6f8fe81607c105990589b3dc8c256fc5b109b994b969d56538"
+metafile = true
 
 [[files]]
-file = "mods/better-clouds-1.7.4+1.21-fabric.jar"
-hash = "8bb54f5348061b8e70b643fc337f2973fbe2f120e9bcfdb8cd0014a7a3cbc707"
+file = "mods/better-clouds.pw.toml"
+hash = "84f4445631f89ef97d5be3edf57c613e44c0ab100a03819c664db3f6175807ea"
+metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
@@ -544,6 +559,11 @@ hash = "5b5603377d85af8869c6805abebf84f409d16f13cf811b96fd27e73a8fee6971"
 metafile = true
 
 [[files]]
+file = "mods/qraftys-bunkers.pw.toml"
+hash = "7d9793da9799b3d1d77cd5cebffde4240346458dff7c87986d2c134a1eceee73"
+metafile = true
+
+[[files]]
 file = "mods/reimagined-trims.pw.toml"
 hash = "0798b7e112b3dd15b18289720c89d44431a97ff97fdee3222e0686b542dcd533"
 metafile = true
@@ -609,8 +629,9 @@ hash = "15a101962bd8969593ce08e7be2844818903bc7012c15b9419e6879231369db0"
 metafile = true
 
 [[files]]
-file = "mods/threadtweak-fabric-0.1.5+mc1.21.1.jar"
-hash = "d5c0b0f5014b2ab729b820ad17acab7ce7f51b6dd72a5655839b31f6a2394682"
+file = "mods/threadtweak.pw.toml"
+hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
+metafile = true
 
 [[files]]
 file = "mods/tiered-forge.pw.toml"
@@ -708,26 +729,19 @@ hash = "00aada31d29b57433979f846962106b64d5cfd0b0fe9e7a4789814f8d234de4a"
 metafile = true
 
 [[files]]
-file = "packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
 file = "resourcepacks/ApocalypseTweaks.zip"
 hash = "dc01a7f7d00032d202cacee131fbfb09168c6984a695f6b0b270f759acca7e1f"
 
 [[files]]
-file = "resourcepacks/Tom's and Create Smashed.zip"
-hash = "069db06ec80bc44dc7c9bc901ef56e97150c57197783f403bbb9d1ea149d8ea6"
+file = "resourcepacks/motschens-better-leaves.pw.toml"
+hash = "e74112068748ac0c074a7ef1df90139cd5e1e09860b7f74c159d574ae4caf66c"
+metafile = true
 
 [[files]]
-file = "resourcepacks/motschens-better-leaves.pw.toml"
-hash = "3236a08facc36e64271817c92e4cc7d4708dc0fdfe2342ddf7d62ccec0988c95"
+file = "resourcepacks/toms-and-create-smashed.pw.toml"
+hash = "2627e3150f649066b86e7cb8f826172057ff922104abd3b43a688f359f2fd845"
 metafile = true
 
 [[files]]
 file = "scripts/fixes.zs"
 hash = "a12aa01f87136a77ee7a97c1b2880cd61b2de0b54d7bafd338a8372fe8219571"
-
-[[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.3.zip"
-hash = "66061b3c5b4843e31bc9a7562a7ac697a51bb77c73defc7071f996b783efacce"

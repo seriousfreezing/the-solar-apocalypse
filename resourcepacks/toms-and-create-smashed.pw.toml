@@ -1,0 +1,13 @@
+name = "Tom's and Create Smashed"
+filename = "Tom's and Create Smashed.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YSnRgQ5p/versions/tN0cucjJ/Tom%27s%20and%20Create%20Smashed.zip"
+hash-format = "sha512"
+hash = "71685818de06bac2ed52489dbc6fd1b53250db2793c17a26a5ecccfaaad811516fac30a8ff042d18f1e0edf3b624391e57aa4faa87050d20b2f7893316732c73"
+
+[update]
+[update.modrinth]
+mod-id = "YSnRgQ5p"
+version = "tN0cucjJ"
