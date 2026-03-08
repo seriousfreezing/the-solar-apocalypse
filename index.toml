@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/FUNDING.yml"
-hash = "aec550f8a4ff790acda88ca8096c1af425c4538f6fbd8df75bd6810283f924b3"
-
-[[files]]
-file = ".github/ISSUE_TEMPLATE/bug-report.md"
-hash = "6373de482af0ee81d76c58c85bd3e98d772ef0d6e24ed57252619a0dd11d5558"
-
-[[files]]
-file = ".github/ISSUE_TEMPLATE/feature-request.md"
-hash = "2de591ab084e48a877ec41f21d7f2e001edd5a05a70b174a5c9bee418235ae94"
-
-[[files]]
-file = "LICENSE"
-hash = "1b2569d37b9d98d52eb12d2c6789ee8c0982d1f89fc53f253ad833434e81d9d0"
-
-[[files]]
 file = "complementary-unbound.pw.toml"
 hash = "7957e0a7f484ed89e17321b8eb365f29e93c3f152a61fd3d5c0c2ce36e9faac0"
 metafile = true
@@ -245,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "84f4445631f89ef97d5be3edf57c613e44c0ab100a03819c664db3f6175807ea"
+hash = "e4ec050d9ff502306214abdc72ffc08eb47cf67d241cdd73fc4efdfb899ff208"
 metafile = true
 
 [[files]]
