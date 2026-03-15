@@ -1,1 +1,1 @@
-{"version":1,"overrides":{"particular":{"-depends":{"modmenu":""}}}}
+{"version":1,"overrides":{"particular":{"-depends":{"modmenu":""}},"debugify":{"-recommends":{"modmenu":""}},"dynamic_fps":{"-recommends":{"modmenu":""}},"forgeconfigapiport":{"-recommends":{"modmenu":""}},"inventorysorter":{"-recommends":{"modmenu":""}},"lambdynlights_runtime":{"-recommends":{"modmenu":""}},"moremobs":{"-recommends":{"modmenu":"","modmenu-badges-lib":""}},"smbs":{"-recommends":{"modmenu":""}},"sounds":{"-recommends":{"rsls":""}}}}

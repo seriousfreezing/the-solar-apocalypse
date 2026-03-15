@@ -1,0 +1,13 @@
+name = "Web"
+filename = "web-1.0.4-1-21-11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/y6IaGCHf/versions/iDURs8NP/web-1.0.4-1-21-11.jar"
+hash-format = "sha512"
+hash = "d409fbb02200f4cd383ba7c383f5108855038ab9ce8213b491986ffc376ce83fe3704bf11e4366a8322664ef5e5d5360f4fc913f53aa5118cb2d81dd60cb9b88"
+
+[update]
+[update.modrinth]
+mod-id = "y6IaGCHf"
+version = "iDURs8NP"

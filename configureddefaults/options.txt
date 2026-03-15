@@ -3,5 +3,6 @@ textureFiltering:1
 maxFps:60
 simulationDistance:8
 realmsNotifications:false
+onboardAccessibility:true
 menuBackgroundBlurriness:0.0
-resourcePacks:["file/SodiumTranslations.zip"]
+resourcePacks:["file/SodiumTranslations.zip","thecopperierage:copperier_copper"]

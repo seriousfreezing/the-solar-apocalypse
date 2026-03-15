@@ -1,12 +1,12 @@
 name = "the-solar-apocalypse"
 author = "SeriousFreezing"
-version = "29.0"
+version = "30.0+beta"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "24a2984220d0acb1af178fe423ff7cf4a8b964639118e28196562b606df0b6d1"
+hash = "ed020b747f87981d7e26879cf9155dc13486652b5393933292ac865cb4fb02c1"
 
 [versions]
 fabric = "0.18.4"
