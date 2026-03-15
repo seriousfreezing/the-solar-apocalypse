@@ -34,7 +34,9 @@ Discover a modpack built to challenge you, surprise you, and push your survival 
 
 <br>![videos](https://cdn.modrinth.com/data/cached_images/44374669a127c2e6a175bcadad243b20c1a63a7e.png)
 
-[![Gameplay example](https://img.youtube.com/vi/OjcFMHkkhnY/maxresdefault.jpg)](https://www.youtube.com/watch?v=OjcFMHkkhnY?cc_load_policy=1&cc_lang_pref=en&start=0)
+<a href="https://www.youtube.com/watch?v=OjcFMHkkhnY?cc_load_policy=1&cc_lang_pref=en&start=0" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.youtube.com/vi/OjcFMHkkhnY/maxresdefault.jpg" alt="Gameplay by HangsCW">
+</a>
 
 <br>![divider](https://cdn.modrinth.com/data/cached_images/2c877fa56907fe9b751c85433ce77932a93b8a25.png)
 
