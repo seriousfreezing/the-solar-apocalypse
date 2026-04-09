@@ -1,0 +1,16 @@
+[General]
+	configVersion = 2
+
+[Drawers]
+	[Drawers.Detached]
+		heavyDrawers = true
+
+	[Drawers.Filled]
+		heavyDrawers = true
+
+[Upgrades]
+	[Upgrades.CreativeStorage]
+		enableUpgrade = false
+
+	[Upgrades.CreativeVending]
+		enableUpgrade = false

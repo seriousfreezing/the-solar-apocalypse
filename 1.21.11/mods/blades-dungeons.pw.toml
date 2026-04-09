@@ -1,0 +1,13 @@
+name = "Blade's Dungeons"
+filename = "blades-dungeons-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CVbcXsJW/versions/DuhTR5b3/blades-dungeons-1.2.1.jar"
+hash-format = "sha512"
+hash = "dfa9c9a831e5720fe392831969828c212104c3e29ba3b151b58d0e72d4375afd0ce0c00bb5675061894a21496a13143c5a2e63f162c98ce0b7b329e88f3efab2"
+
+[update]
+[update.modrinth]
+mod-id = "CVbcXsJW"
+version = "DuhTR5b3"

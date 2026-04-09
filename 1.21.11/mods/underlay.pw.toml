@@ -1,0 +1,13 @@
+name = "Underlay"
+filename = "underlay-1.0.0-hotfix.1-fabric-mc1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iltKD9qU/versions/epU2deb9/underlay-1.0.0-hotfix.1-fabric-mc1.21.11.jar"
+hash-format = "sha512"
+hash = "bd33cac902aaa5750491e02dd70e2e7c7f20c779413bde2f82d68d7dbd34830b18f53920bc4d67aa8b703e825ff73b23905558497ea2b7e5f7644a31797816ca"
+
+[update]
+[update.modrinth]
+mod-id = "iltKD9qU"
+version = "epU2deb9"

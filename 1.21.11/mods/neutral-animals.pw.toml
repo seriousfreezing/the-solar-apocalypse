@@ -1,0 +1,13 @@
+name = "Neutral Animals"
+filename = "neutral-animals-1.2.18.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/w1AXlLHd/versions/jzmnUlzr/neutral-animals-1.2.18.jar"
+hash-format = "sha512"
+hash = "da9f1028b06a84c181c3dd23b69a23d233d7bbe11a8a6e1ad8956eedd5212217529b2d29e974316a95834354f63ae84c288ed1485fb6ed886c03f54a1472789c"
+
+[update]
+[update.modrinth]
+mod-id = "w1AXlLHd"
+version = "jzmnUlzr"

@@ -1,0 +1,13 @@
+name = "ElevatorMod"
+filename = "elevatorid-fabric-1.21.11-1.15.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hi2dSXTu/versions/GY7sN2TR/elevatorid-fabric-1.21.11-1.15.0.jar"
+hash-format = "sha512"
+hash = "14503cfef379343b99d89c4fb0f25e578e1e1e2686808e1f1e5f4226c70bb86fe3c15edcb6335c4b7b98eb631bb9f17db0111eb077e2aa736618bc406c60a6da"
+
+[update]
+[update.modrinth]
+mod-id = "hi2dSXTu"
+version = "GY7sN2TR"

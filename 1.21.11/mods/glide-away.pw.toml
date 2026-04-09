@@ -1,0 +1,13 @@
+name = "Glide Away!"
+filename = "glideaway-1.8.0+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iWkVbeKr/versions/7joNz17H/glideaway-1.8.0%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "8112d0b4d70763607e8928c4c6de1983d9bd630e19b6cadf89a4240312b2b6b74978a555f3b8133df69661a9bf66fe9cfe79949300a0ab44837de1cf4cc692a6"
+
+[update]
+[update.modrinth]
+mod-id = "iWkVbeKr"
+version = "7joNz17H"

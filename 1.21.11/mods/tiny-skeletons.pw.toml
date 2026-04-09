@@ -1,0 +1,13 @@
+name = "Tiny Skeletons"
+filename = "TinySkeletons-v21.11.1-mc1.21.11-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/A2xcMSUn/versions/kCLzCOdl/TinySkeletons-v21.11.1-mc1.21.11-Fabric.jar"
+hash-format = "sha512"
+hash = "fffac1dd495b18d8d1da41be5d62c34941bcc3ebb9c23f43f335c5aaa01b39fe15a58bf9cbc510135e772cdc3d911dfb3953c1249b245976835268a7904dc8ba"
+
+[update]
+[update.modrinth]
+mod-id = "A2xcMSUn"
+version = "kCLzCOdl"
