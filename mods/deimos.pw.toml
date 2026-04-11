@@ -1,13 +1,13 @@
 name = "Deimos"
-filename = "deimos-1.21.11-fabric-2.5.jar"
+filename = "deimos-26.1.2-fabric-2.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WQaxNzFg/versions/X6igL7Ew/deimos-1.21.11-fabric-2.5.jar"
+url = "https://cdn.modrinth.com/data/WQaxNzFg/versions/dBwBjeP7/deimos-26.1.2-fabric-2.5.jar"
 hash-format = "sha512"
-hash = "cbbcd6bc10e30c889d9faa29cd04c8889a60a0d0133d3777beff0235ea74f4aceef97929919ad794983f7aecc31abbcdb495fa232117457f5e5135eb3ceca650"
+hash = "f47488e559172495ba56dfbd310854f8c9c7cb79cea196a10ee376e5846d61a7bce7cb346019c5507ea01941298b3ca58c47252512409cb87adb7e97dae14e14"
 
 [update]
 [update.modrinth]
 mod-id = "WQaxNzFg"
-version = "X6igL7Ew"
+version = "dBwBjeP7"

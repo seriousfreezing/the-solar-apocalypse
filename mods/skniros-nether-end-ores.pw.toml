@@ -1,0 +1,13 @@
+name = "Skniro's Nether and End Ores"
+filename = "SkniroNetherAndEndOres-1.1.0-26.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EUV7foM2/versions/LPJQvemu/SkniroNetherAndEndOres-1.1.0-26.1-Fabric.jar"
+hash-format = "sha512"
+hash = "248c49e36ac911aebe0315f8e455e63d12e69d9075b06be1de021d1a4bf6bde5c4444db9ba8c6e1a801fc30da1d7d5582e5d24629c60aff4389bd8635ef3ec6d"
+
+[update]
+[update.modrinth]
+mod-id = "EUV7foM2"
+version = "LPJQvemu"

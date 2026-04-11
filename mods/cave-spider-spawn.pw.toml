@@ -1,13 +1,13 @@
 name = "Cave Spider Spawn"
-filename = "cavespiderspawn-1.21.11-1.2.jar"
+filename = "cavespiderspawn-26.1.2-1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9IUlkb2K/versions/OvGmGDx9/cavespiderspawn-1.21.11-1.2.jar"
+url = "https://cdn.modrinth.com/data/9IUlkb2K/versions/GTJAXZrV/cavespiderspawn-26.1.2-1.2.jar"
 hash-format = "sha512"
-hash = "05d56fc6b018856c230f8df568cff1f98cf4316ff797f0055e1ccd41f04639a5b9914f1dc0a85280bfde76190716e7e32422a3a23634f5b85dc0bdeca9ea3946"
+hash = "e5a41280d3fe40149e265fbe0476d8e2ccbf7827de4af46069fb31330992bd3d22f81e38abde17352f402e3be863f389efbd63e224849f6b0e73863ef6f2b4ce"
 
 [update]
 [update.modrinth]
 mod-id = "9IUlkb2K"
-version = "OvGmGDx9"
+version = "GTJAXZrV"

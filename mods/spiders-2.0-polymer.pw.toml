@@ -1,0 +1,13 @@
+name = "Spiders 2.0 polymerized"
+filename = "Spiders-2.0-1.0.4+26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pHIx2aDH/versions/Z9DwxcjW/Spiders-2.0-1.0.4%2B26.1.jar"
+hash-format = "sha512"
+hash = "d70adfd54a1bd3a28c7f3c5018ed73d67e5d0807366f7aa78f267eebae00b05671ae11ea2fbb2f872b7d9bdae9c56772007ab45419e845c1a05d88ae8a8a9b4c"
+
+[update]
+[update.modrinth]
+mod-id = "pHIx2aDH"
+version = "Z9DwxcjW"

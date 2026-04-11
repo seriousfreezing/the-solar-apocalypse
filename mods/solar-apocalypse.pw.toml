@@ -1,13 +1,13 @@
 name = "Solar Apocalypse"
-filename = "solar-apocalypse-1.9.19.jar"
+filename = "solar-apocalypse-1.9.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wkKhe1pU/versions/OlxUsnbt/solar-apocalypse-1.9.19.jar"
+url = "https://cdn.modrinth.com/data/wkKhe1pU/versions/PyHkLhvP/solar-apocalypse-1.9.20.jar"
 hash-format = "sha512"
-hash = "da37b0621c0c0b9a14154348bd622f4b86ca2812790a0a592cea0c8090da5ab8061812a3ae2d63281c7febba3caebf340491c4aefe0750f3afa1443e21c44307"
+hash = "ff019923b2d9c1ae9249548aa24771b5f7b145adfa0bcd5b0287f0971f6181cf3ebdd2d104668431fbab4df8729502a6efc7e3600d95488bd8a4208b98b7e929"
 
 [update]
 [update.modrinth]
 mod-id = "wkKhe1pU"
-version = "OlxUsnbt"
+version = "PyHkLhvP"

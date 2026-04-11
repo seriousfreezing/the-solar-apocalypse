@@ -1,0 +1,13 @@
+name = "Construction Wand (Fabric)"
+filename = "constructionwand-2.1.1+26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SdT4Yu5L/versions/hbXKNUpk/constructionwand-2.1.1%2B26.1.jar"
+hash-format = "sha512"
+hash = "893359afcf45977ddfa98db7034e326fcbbcf162ec8d27bd91f844a7b7e0d790fadefab75bec7eac93eaa54bdee4e30c0fcf08cb0eddbc7671ad51107752c792"
+
+[update]
+[update.modrinth]
+mod-id = "SdT4Yu5L"
+version = "hbXKNUpk"

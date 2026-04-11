@@ -1,0 +1,13 @@
+name = "Simple Structures: Caves"
+filename = "Simple Structures Caves 26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3fUIGxtg/versions/7piGDzR9/Simple%20Structures%20Caves%2026.1.jar"
+hash-format = "sha512"
+hash = "240e2f00dacceb0bd7dc2801805a336c9f9ea6f2c9e206d268a2d057dae3c9e55b598d6f4b81b098a284d8eba1ca8ea696d70e0678e601649714a98efe01e990"
+
+[update]
+[update.modrinth]
+mod-id = "3fUIGxtg"
+version = "7piGDzR9"

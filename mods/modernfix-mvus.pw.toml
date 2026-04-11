@@ -3,11 +3,11 @@ filename = "modernfix-5.26.2-build.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TjSm1wrD/versions/6q6pkhVP/modernfix-5.26.2-build.1.jar"
+url = "https://cdn.modrinth.com/data/TjSm1wrD/versions/dqQ7mabN/modernfix-5.26.2-build.1.jar"
 hash-format = "sha512"
-hash = "d57be559b6d2ee802df3617a7d44586f690db27998cfc04f195ec645a754a9be9fcd7e824313671711b0e318720f39f0e96db46727a21ff17b4fa3187fbdf399"
+hash = "fbef93c2dabf7bcd0ccd670226dfc4958f7ebe5d8c2b1158e88a65e6954a40f595efd58401d2a3dbb224660dca5952199cf64df29100e7bd39b1b1941290b57b"
 
 [update]
 [update.modrinth]
 mod-id = "TjSm1wrD"
-version = "6q6pkhVP"
+version = "dqQ7mabN"

@@ -1,13 +1,13 @@
 name = "Just Enough Professions (JEP)"
-filename = "JustEnoughProfessions-fabric-1.21.11-10.0.0.jar"
+filename = "JustEnoughProfessions-fabric-26.1.1-11.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kB56GtWA/versions/hGoqP2tN/JustEnoughProfessions-fabric-1.21.11-10.0.0.jar"
+url = "https://cdn.modrinth.com/data/kB56GtWA/versions/h5xycz6j/JustEnoughProfessions-fabric-26.1.1-11.0.1.jar"
 hash-format = "sha512"
-hash = "fbc7e503bc1526e233b865f5d8400ed19eef0f59955da201880265532d9f2fd25c3fcaf28d194a32278677a5238a63cf3f2647964b0a47c421a3a37f223eb850"
+hash = "ee9c9577f683eb88710aaf40e37b10d128730c34a58fffebb54611dcfdff12461d67b7b60d4f64bcb8e3eb288f8c668c6ff11eef5b909dd0666ecade295c5565"
 
 [update]
 [update.modrinth]
 mod-id = "kB56GtWA"
-version = "hGoqP2tN"
+version = "h5xycz6j"
