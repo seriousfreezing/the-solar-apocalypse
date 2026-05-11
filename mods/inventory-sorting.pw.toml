@@ -1,0 +1,13 @@
+name = "Inventory Sorting"
+filename = "inventorysorter-fabric-3.0.0-beta.4+mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5ibSyLAz/versions/IrGlC1xp/inventorysorter-fabric-3.0.0-beta.4%2Bmc26.1.2.jar"
+hash-format = "sha512"
+hash = "2c224e8f7669eb2a0624c9242156d1ef062827ff1b02929a8c07d09ce31458677ba73f98a436bb3665bb279c8eac9d15dc84356e13a5800cad5730f1b2efca3f"
+
+[update]
+[update.modrinth]
+mod-id = "5ibSyLAz"
+version = "IrGlC1xp"

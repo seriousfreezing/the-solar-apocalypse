@@ -1,0 +1,13 @@
+name = "Better Library"
+filename = "better_lib-fabric-26.1-2.0.0-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2x0ULgTj/versions/W0lEckYe/better_lib-fabric-26.1-2.0.0-beta.jar"
+hash-format = "sha512"
+hash = "2ca8ac45dbcc2ff930845a6e05998baadd65e47b1c0b20c4810b37db8b0d03f7c01f4ac7d3f6a17d33d3178993cf3b6627b0e05d1c564e1b03075dc235c76bf1"
+
+[update]
+[update.modrinth]
+mod-id = "2x0ULgTj"
+version = "W0lEckYe"

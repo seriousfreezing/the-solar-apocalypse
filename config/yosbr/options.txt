@@ -1,10 +1,14 @@
+version:4790
 enableVsync:false
 textureFiltering:1
+graphicsPreset:"custom"
 maxFps:60
 simulationDistance:8
 realmsNotifications:false
+telemetryOptInExtra:false
 onboardAccessibility:true
-menuBackgroundBlurriness:0.0
-resourcePacks:["file/Tom\u0027s Metal Storage v1.2 (1.21.1).zip","file/SodiumTranslations.zip","minecraft:kaleidoscope_eating_animation","srl_cm/ApocalypseTweaks.zip","thecopperierage:copperier_copper"]
-incompatibleResourcePacks:["file/Tom\u0027s Metal Storage v1.2 (1.21.1).zip"]
+menuBackgroundBlurriness:0
+resourcePacks:["file/SodiumTranslations.zip","minecraft:kaleidoscope_eating_animation","srl_cm/ApocalypseTweaks.zip","thecopperierage:copperier_copper"]
 soundCategory_music:0.0
+key_desc.seasonhud.keybind.options:key.keyboard.unknown
+key_inventorysorter.key.config:key.keyboard.unknown

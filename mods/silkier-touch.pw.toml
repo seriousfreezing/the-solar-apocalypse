@@ -1,13 +1,13 @@
 name = "Silkier Touch"
-filename = "silkiertouch-26.1.2-1.1.jar"
+filename = "silkiertouch-26.1.2-1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dUaXeoyM/versions/676g39Rw/silkiertouch-26.1.2-1.1.jar"
+url = "https://cdn.modrinth.com/data/dUaXeoyM/versions/MOg2Z9MF/silkiertouch-26.1.2-1.2.jar"
 hash-format = "sha512"
-hash = "06f55ff50c0511c5df353cc3de2bafdb2453701abb0d61ba51b5e7025ef68eaf5283bfd8baf5579b7d19d0fe9c3722b8bfedda0a454e3a6bbeb66f323e5ae445"
+hash = "55bc7e235b0d92a1d1a9ebb0e945e88ed56f72e4d16a4be5a16abf6ba019b458603797a74ae4c2a548672bc382fcf000df7f015e0a62fa7626a34681de72d7b8"
 
 [update]
 [update.modrinth]
 mod-id = "dUaXeoyM"
-version = "676g39Rw"
+version = "MOg2Z9MF"

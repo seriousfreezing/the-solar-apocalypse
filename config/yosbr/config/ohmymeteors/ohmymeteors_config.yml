@@ -1,0 +1,11 @@
+version:7
+meteor_spawn_chance:40000
+modify_spawn_chance_at_night:true
+meteor_night_spawn_chance:30000
+explode_on_entity_collision:true
+actionbar_announcements:false
+announce_location:false
+area_explosion_sound:true
+spawn_dimensions:[minecraft:overworld]
+dimension_night_chances:{}
+meteor_shower_chance:300

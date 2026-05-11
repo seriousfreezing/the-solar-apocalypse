@@ -1,0 +1,13 @@
+name = "Little Joys"
+filename = "littlejoys-fabric-26.1.2-26.1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v0j2ftEp/versions/gTSCCjTn/littlejoys-fabric-26.1.2-26.1.2.2.jar"
+hash-format = "sha512"
+hash = "8a9dafb1805f2beec68955e4cea5c1d6fec3f53444ed01f09b2fc3ba31b3a9928f7a9dd7ebe139a76609e0a56354a1a24a92b549af5e5f0f50be0b8abc1a8d6a"
+
+[update]
+[update.modrinth]
+mod-id = "v0j2ftEp"
+version = "gTSCCjTn"

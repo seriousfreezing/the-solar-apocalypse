@@ -1,0 +1,13 @@
+name = "Linked Chests"
+filename = "LinkedChests-v26.1.0-mc26.1.x-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mr2x2AUf/versions/ZmNCWzTl/LinkedChests-v26.1.0-mc26.1.x-Fabric.jar"
+hash-format = "sha512"
+hash = "caa18457bb18d8c1c3d98404b7ef6901c249ef7e38e6968996aa2dc5ee645d0becf9d2fd29037fb67219642b9d09d8a404ed5eb6cc7604610e45587568109100"
+
+[update]
+[update.modrinth]
+mod-id = "Mr2x2AUf"
+version = "ZmNCWzTl"

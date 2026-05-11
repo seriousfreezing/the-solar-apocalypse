@@ -1,0 +1,13 @@
+name = "TerraBlender"
+filename = "TerraBlender-fabric-26.1.2-26.1.2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kkmrDlKT/versions/WIoDeApz/TerraBlender-fabric-26.1.2-26.1.2.0.2.jar"
+hash-format = "sha512"
+hash = "13d4bf5b4aba2c75c4e7c29fca03a2ac4a54f34fd52aa252237865d3a9637418650d11938a226b746361d9e5a7549d3503a3260f5979605d671acce8c675a325"
+
+[update]
+[update.modrinth]
+mod-id = "kkmrDlKT"
+version = "WIoDeApz"
