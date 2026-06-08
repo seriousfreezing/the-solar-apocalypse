@@ -1,0 +1,13 @@
+name = "Chisel Reborn"
+filename = "chisel-fabric-2.2.0+mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4KWv7wbN/versions/f4j6VwyG/chisel-fabric-2.2.0%2Bmc26.1.2.jar"
+hash-format = "sha512"
+hash = "a9c2fdd924f2b2e5f1d032d6976b0031b5126e833aeb4240418be5393058860462e0b3c657252e8b1331149be1d03374a6b1780beb31ba4f5621c9d91fa89a7a"
+
+[update]
+[update.modrinth]
+mod-id = "4KWv7wbN"
+version = "f4j6VwyG"

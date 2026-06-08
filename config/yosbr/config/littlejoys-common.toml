@@ -1,15 +1,15 @@
 [digSpots]
-afterDiggingCooldownSeconds = 900.0
-minimumDistanceBetween = 160
-spawnDistance = 40
-spawnIntervalSeconds = 600.0
+    afterDiggingCooldownSeconds = 900.0
+    minimumDistanceBetween = 160
+    spawnDistance = 40
+    spawnIntervalSeconds = 600.0
 [dropRush]
-enabled = false
+    enabled = false
 [fishingSpots]
-afterFishingCooldownSeconds = 900.0
-minimumDistanceBetween = 160
-secondsUntilLured = 3.0
-spawnDistance = 12
-spawnIntervalSeconds = 600.0
+    afterFishingCooldownSeconds = 900.0
+    minimumDistanceBetween = 160
+    secondsUntilLured = 3.0
+    spawnDistance = 12
+    spawnIntervalSeconds = 600.0
 [goldRush]
-baseChance = 0.01
+    baseChance = 0.01

@@ -1,0 +1,5 @@
+[reinforced_hang_glider]
+    durability_use_interval = 4
+[hang_glider]
+    air_resistance = 0.95
+    durability_use_interval = 3

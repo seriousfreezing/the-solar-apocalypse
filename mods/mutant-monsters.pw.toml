@@ -1,13 +1,13 @@
 name = "Mutant Monsters"
-filename = "MutantMonsters-v26.1.0-mc26.1.x-Fabric.jar"
+filename = "MutantMonsters-v26.1.1-mc26.1.x-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/derP0ten/versions/EvKYUzN3/MutantMonsters-v26.1.0-mc26.1.x-Fabric.jar"
+url = "https://cdn.modrinth.com/data/derP0ten/versions/1mzr7NDs/MutantMonsters-v26.1.1-mc26.1.x-Fabric.jar"
 hash-format = "sha512"
-hash = "51d41e321eb2d772effe736fab3a2b86a23a3091d0f594ca38863f152ed0eee616907da9ca81deef39ed0c62f88f97f083a632af61706dfdfaab4fdec6da18d4"
+hash = "687261d3617c99595ed05c201a0b4a3132ff36e182a793347e6b4e1444917952729efa5255e7f86124cdac2223722a7ff3fcc0a50dc2670b5627e2814faf05e4"
 
 [update]
 [update.modrinth]
 mod-id = "derP0ten"
-version = "EvKYUzN3"
+version = "1mzr7NDs"

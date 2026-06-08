@@ -1,4 +1,4 @@
 [SeasonHUD]
-	[SeasonHUD.Season]
-		enable_show_tropical_season = false
-		enable_show_day = "NONE"
+    [SeasonHUD.Season]
+        enable_show_tropical_season = false
+        enable_show_day = "NONE"

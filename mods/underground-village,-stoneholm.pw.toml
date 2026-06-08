@@ -1,13 +1,13 @@
 name = "Underground Village, Stoneholm"
-filename = "underground_village-fabric-26.1-2.0-beta.jar"
+filename = "underground_village-fabric-26.1-2.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KmyhssPl/versions/CQpnKkox/underground_village-fabric-26.1-2.0-beta.jar"
+url = "https://cdn.modrinth.com/data/KmyhssPl/versions/fbghJ8w2/underground_village-fabric-26.1-2.1.0.jar"
 hash-format = "sha512"
-hash = "1c85c48d2e6ef1e5cc5092136a24ae86e34f93526ef57b938c8282e4b8878751f910fafd00a53d5576546e750ce5068b2359788f244b0a600a888d5c22c67ac5"
+hash = "ec94ced467b26929fd4a0b4f4848a7d8c49fd343de45258d0bfbf914e055575807584d1ab82c281e468771a225772be61f753b1c51a25017c8070b911719ce4b"
 
 [update]
 [update.modrinth]
 mod-id = "KmyhssPl"
-version = "CQpnKkox"
+version = "fbghJ8w2"
