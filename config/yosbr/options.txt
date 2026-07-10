@@ -8,7 +8,7 @@ realmsNotifications:false
 telemetryOptInExtra:false
 onboardAccessibility:true
 menuBackgroundBlurriness:0
-resourcePacks:["file/SodiumTranslations.zip","minecraft:kaleidoscope_eating_animation","srl_cm/ApocalypseTweaks.zip","thecopperierage:copperier_copper"]
+resourcePacks:["file/Creeper Overhaul RP [V1.2.2].zip","file/SodiumTranslations.zip","minecraft:kaleidoscope_eating_animation","srl_cm/ApocalypseTweaks.zip","thecopperierage:copperier_copper","continuity:default","continuity:glass_pane_culling_fix"]
 soundCategory_music:0.0
 key_desc.seasonhud.keybind.options:key.keyboard.unknown
 key_inventorysorter.key.config:key.keyboard.unknown

@@ -1,0 +1,13 @@
+name = "Optimized Block Entities"
+filename = "obe+26.1.2-1.1.29.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AtOSAunf/versions/QI12caMq/obe%2B26.1.2-1.1.29.jar"
+hash-format = "sha512"
+hash = "a41949c41081f18202c205bc7dfd9e92fd44b4256e50e439fac6eee242852f452d434bc59cf26a8133a723e66695bf7cd27d019d4490701869449489f59b7244"
+
+[update]
+[update.modrinth]
+mod-id = "AtOSAunf"
+version = "QI12caMq"

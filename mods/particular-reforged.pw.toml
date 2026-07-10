@@ -1,13 +1,13 @@
 name = "Particular ✨ Reforged"
-filename = "particular-26.1.2-Fabric-1.5.0.jar"
+filename = "particular-26.1.2-Fabric-1.5.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/pYFUU6cq/versions/VfaUWvKF/particular-26.1.2-Fabric-1.5.0.jar"
+url = "https://cdn.modrinth.com/data/pYFUU6cq/versions/fKBUEdst/particular-26.1.2-Fabric-1.5.5.jar"
 hash-format = "sha512"
-hash = "86e19b84edea62b39eff4aff123650ba0347102cefd00888e7911a379c448af3c098dc46ec6faa43cc0c1210b7db1da39fd808c8b540b224d41020986c5b90b0"
+hash = "8fe6f975a4d869bd5001d6e706a087fbb12fedbfe9cf6c7507ecca3104224fdca6f9f14cc985501027a045fd625eac28c67676f6cc16e348a1a9cc9b290e2e18"
 
 [update]
 [update.modrinth]
 mod-id = "pYFUU6cq"
-version = "VfaUWvKF"
+version = "fKBUEdst"

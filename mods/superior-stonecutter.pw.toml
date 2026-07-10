@@ -1,13 +1,13 @@
 name = "Superior Stonecutter"
-filename = "superior-stonecutter-v1.2.8.jar"
+filename = "superiorstonecutter-v1.3.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yWBAOWPN/versions/D0vo7TJf/superior-stonecutter-v1.2.8.jar"
+url = "https://cdn.modrinth.com/data/yWBAOWPN/versions/uIhsYeCA/superiorstonecutter-v1.3.1.jar"
 hash-format = "sha512"
-hash = "56c9ec657f49aec91608a91dd70187c090209aa8d29c5a328c0de76ec88d6ee41786c37d9988a8e0fde75587868097ca6439a264bb03a18846183b23a8cb5970"
+hash = "1430c8f510dc435539ce85271926d702b513cb50cd08cfb7afe78a1394eceba745c1282fda2e0671d3d44ef5be3f8e726ed0d7d0c9691c47e59812cc8a47d0ff"
 
 [update]
 [update.modrinth]
 mod-id = "yWBAOWPN"
-version = "D0vo7TJf"
+version = "uIhsYeCA"
