@@ -1,0 +1,1 @@
+{"backupMode":"DIFFERENTIAL","pauseAutomaticBackupsWithoutPlayers":false,"backupOnServerStop":true,"automaticIntervalMinutes":30,"automaticBackupWarningMinutes":1,"messageChannel":"CHAT","includeSummaryFile":true,"minimumFreeSpaceReserveMb":16000,"retention":{"full":3,"incremental":9,"differential":12},"popup":{"enabled":false}}

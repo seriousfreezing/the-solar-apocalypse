@@ -1,13 +1,13 @@
 name = "EnhancedTooltips"
-filename = "EnhancedTooltips-1.9.1+fabric.26.1.2.jar"
+filename = "EnhancedTooltips-1.10.0+fabric.26.1.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/8H6RXl2q/versions/CuIEfzjl/EnhancedTooltips-1.9.1%2Bfabric.26.1.2.jar"
+url = "https://cdn.modrinth.com/data/8H6RXl2q/versions/nG0MQM8t/EnhancedTooltips-1.10.0%2Bfabric.26.1.2.jar"
 hash-format = "sha512"
-hash = "ed4983c9a54d4199a6ed063aa22ab36df5f101599a691f285f0ce6be4aa576f82c8bef2054a8f0945e92419636f5bcb36439c4d1ecaf6a03cda02f317e79c4f7"
+hash = "b5539f4ea6de153019b1fde44a72459f1f7703267fa384be7a239cbdd26f6bd8824c0093a9ca4ba4abb54435ef3e2ac0fb77119b35abed3922be9e4bf961b26f"
 
 [update]
 [update.modrinth]
 mod-id = "8H6RXl2q"
-version = "CuIEfzjl"
+version = "nG0MQM8t"
