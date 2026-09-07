@@ -1,13 +1,13 @@
 name = "Medieval Buildings [End Edition]"
-filename = "fabric_medieval_buildings_end_edition-1.0.2-1.21.jar"
+filename = "medieval_end-fabric-26.1.2-1.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6c63149ebe6d0b0cbb9db97b8908471b177f57fb"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/bq6nqeOx/versions/cUEzkknT/medieval_end-fabric-26.1.2-1.2.1.jar"
+hash-format = "sha512"
+hash = "8746fd73048c1c01aaf14992302e978b2ba3c87e4c31f04de470a262bf5e3fefab89e66f93f9a5b6b68d4c8b8ec8d27c6dff5a4a367105e0e487c1e80cb57cf7"
 
 [update]
-[update.curseforge]
-file-id = 5498961
-project-id = 976817
+[update.modrinth]
+mod-id = "bq6nqeOx"
+version = "cUEzkknT"

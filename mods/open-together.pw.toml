@@ -1,0 +1,13 @@
+name = "Open Together"
+filename = "OpenTogether-v26.1.0-mc26.1.x-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ssyvO6WG/versions/Hx30Jx29/OpenTogether-v26.1.0-mc26.1.x-Fabric.jar"
+hash-format = "sha512"
+hash = "858befe869f536a5bc3a2dc5c217b5bf147198ce0c33defbaf97450d8f5218cb54a34e9a99cf77decf1da9afbf4558f7478a7b408b3af1374f73c51fc6dca3df"
+
+[update]
+[update.modrinth]
+mod-id = "ssyvO6WG"
+version = "Hx30Jx29"

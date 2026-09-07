@@ -1,0 +1,13 @@
+name = "The Copperier Age"
+filename = "TheCopperierAge-1.1.5-mc26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xzrWQ21Z/versions/UVses0y0/TheCopperierAge-1.1.5-mc26.1.jar"
+hash-format = "sha512"
+hash = "d56e4c5ff31a9dbc23a215821d5bf46bdf006f59691f0a221d7622342ca14bfb987709e910e2113c6fffe45271942f896d214dcbe68b4686db6cfebbfd47eb42"
+
+[update]
+[update.modrinth]
+mod-id = "xzrWQ21Z"
+version = "UVses0y0"

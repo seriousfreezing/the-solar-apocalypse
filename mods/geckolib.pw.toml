@@ -1,13 +1,13 @@
-name = "GeckoLib"
-filename = "geckolib-fabric-1.21.1-4.6.6.jar"
+name = "Geckolib"
+filename = "geckolib-fabric-26.1.2-5.5.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b8fe699be8f48f5e599496992e35af39d9e54e89"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/XZTmZlwb/geckolib-fabric-26.1.2-5.5.2.jar"
+hash-format = "sha512"
+hash = "bf7a3802eb22d8f3798bd3b33d51cb5e6aceee634944abcc2651726929a220c85cc06047a4a9a7386e98138ac8dbe585768cf31c9d49de6b8368e71b2201dfb2"
 
 [update]
-[update.curseforge]
-file-id = 5763140
-project-id = 388172
+[update.modrinth]
+mod-id = "8BmcQJ2H"
+version = "XZTmZlwb"

@@ -1,0 +1,13 @@
+name = "Create Fly"
+filename = "create-fly-26.1.2-6.0.9-4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dKvj0eNn/versions/wV5IQLKg/create-fly-26.1.2-6.0.9-4.jar"
+hash-format = "sha512"
+hash = "5930cc930a053614b2d5b0340403093af5c08c8524ab5ae3290377f7deb002ebcd2ac1e678f788d52274b1a057f45f204c2890c6ad03d7a3574181ce01efdd34"
+
+[update]
+[update.modrinth]
+mod-id = "dKvj0eNn"
+version = "wV5IQLKg"

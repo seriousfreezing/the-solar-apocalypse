@@ -1,0 +1,13 @@
+name = "Echo Chest"
+filename = "EchoChest-v26.1.0-mc26.1.x-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/m3pkVbY8/versions/2C7gx1bT/EchoChest-v26.1.0-mc26.1.x-Fabric.jar"
+hash-format = "sha512"
+hash = "15d6db0bb0bd548303b74abf3ea52cb168d85f399b78cff4a85d0c6fb7b464e912815c08a414b35233fc3fbf8725cc8bf29b1c17e59e699293b65580c569951f"
+
+[update]
+[update.modrinth]
+mod-id = "m3pkVbY8"
+version = "2C7gx1bT"

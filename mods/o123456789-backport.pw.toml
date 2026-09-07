@@ -1,0 +1,13 @@
+name = "Reliable Recount"
+filename = "o123456789-fabric-26.1.2-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KZ2nVYZL/versions/6OJUB64a/o123456789-fabric-26.1.2-1.0.0.jar"
+hash-format = "sha512"
+hash = "1fa340d46933c56e1a149edf4392c944c62265eb29bd8937b265649443f36ecf2725f2572e1cd49ab2689e6aac30d7ea177e5d87856ebcaad3b2c3371e184e09"
+
+[update]
+[update.modrinth]
+mod-id = "KZ2nVYZL"
+version = "6OJUB64a"

@@ -1,0 +1,13 @@
+name = "Creeper Overhaul RP"
+filename = "Creeper Overhaul RP [V1.2.2].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CmaVXt8a/versions/BlDHpQvo/Creeper%20Overhaul%20RP%20%5BV1.2.2%5D.zip"
+hash-format = "sha512"
+hash = "526e10cd63267ae11f340dec1842ebdf956b6a80a03a9c9f4f1484e0197e8ced16c96806c2204ca9899b5e7d1791f6659b61beac1115a38bf0f222ab6701fd23"
+
+[update]
+[update.modrinth]
+mod-id = "CmaVXt8a"
+version = "BlDHpQvo"

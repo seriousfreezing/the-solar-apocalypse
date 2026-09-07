@@ -1,0 +1,13 @@
+name = "Tiny Skeletons"
+filename = "TinySkeletons-v26.1.0-mc26.1.x-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/A2xcMSUn/versions/HaCWPpjx/TinySkeletons-v26.1.0-mc26.1.x-Fabric.jar"
+hash-format = "sha512"
+hash = "e014253d7518910ef09639b249799d167cccdc84e09b42a6d8e07671ac277f17f9a89a2ef9f7a0acff89e62f713ac6318e1ce141558b3cf4b633b28f3b5db794"
+
+[update]
+[update.modrinth]
+mod-id = "A2xcMSUn"
+version = "HaCWPpjx"

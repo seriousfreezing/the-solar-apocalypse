@@ -1,16 +1,16 @@
-name = "The Solar Apocalypse"
+name = "the-solar-apocalypse"
 author = "SeriousFreezing"
-version = "15.0.0"
+version = "35.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a3a8c0d9aaf87d30096c1fde45026ac5b51c7df91779a303e524aae5871a9b76"
+hash = "6e8412b44cb7998bc1bbce32cfac2751847d8e9351c25631437bfe46072ad563"
 
 [versions]
-fabric = "0.16.7"
-minecraft = "1.21.1"
+fabric = "0.19.3"
+minecraft = "26.1.2"
 
 [options]
-datapack-folder = "datapacks"
+acceptable-game-versions = ["1.21.8", "1.21.11", "26.1"]

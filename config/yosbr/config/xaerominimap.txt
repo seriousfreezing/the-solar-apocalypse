@@ -1,3 +1,5 @@
+ignoreUpdate:1
+updateNotification:false
 minimapFrame:1
 minimapFrameColor:0
 interface:gui.xaero_minimap:0:0:false:false:true:false

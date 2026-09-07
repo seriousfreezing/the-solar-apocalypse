@@ -1,0 +1,13 @@
+name = "Measurements"
+filename = "Measurements-fabric-26.1-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wLINU2AB/versions/eT36lKY5/Measurements-fabric-26.1-4.0.0.jar"
+hash-format = "sha512"
+hash = "3985cfddc5b9a794667072a9e8bd6aa598bda2e1936f60e554455751f310edecf0800edd6c2992a0f423091843f6fe206be6aa77333270712e2f5b7f01a0881c"
+
+[update]
+[update.modrinth]
+mod-id = "wLINU2AB"
+version = "eT36lKY5"

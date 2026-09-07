@@ -1,0 +1,63 @@
+[general]
+	help_link = "https://discord.gg/6bteKWqkcZ"
+	formulation_type = "DISCORD"
+	upload_to = "mclo.gs"
+	enable_privacy_policy_acceptance = true
+	logs_priority_overrides = ["CRASH_REPORT", "STDERR_STREAM", "WIN_EVENT", "HS_ERR", "LOG", "DEBUG_LOG", "LAUNCHER_LOG", "MOD_LIST"]
+	blacklisted_logs = ["PrismLauncher-", "MultiMC-", "session_"]
+[simple_mode]
+	enabled = true
+	prevent_for_modpack_creators = false
+	hide_modlist_section = true
+[text]
+	support_name = "SeriousFreezing Discord"
+	support_place = "#support channel"
+	modpack_name = "The Solar Apocalypse"
+[generated_message]
+	color_message = false
+	message_structure = "$HEADER$\nLogs:\n$LOGS$\n$PROBLEMATIC_FRAME$$ANALYSIS_RESULT$$MODLIST_DIFF$"
+	log_line_split_pattern = "$LOG_NAME$[$FILE_NAME$](<$LINK_FIRST_LINES$>) | [$MSG_LANG.gui.split_log_dialog_tail$](<$LINK_LAST_LINES$>) $TOO_BIG_REASONS$"
+	ansi_block_pattern = "Warnings:\n```\n$CONTENT$\n```"
+	modlist_header_pattern = ""
+[copied_links]
+	both_links_split = "$LOG_NAME$$FILE_NAME$: $LINK_FIRST_LINES$ and $LINK_LAST_LINES$ $TOO_BIG_REASONS$"
+	skip_split_dialog = true
+[modpack_modlist]
+	modpack_creators = ["SeriousFreezing","Mp3rosa"]
+	add_resourcepacks = true
+	add_datapacks = true
+[analysis]
+	trigger_on_original_modpack_mods = true
+	first_show_delay = 3
+[analysis_tools]
+	enabled = false
+[crash_command]
+	enabled = false
+[piracy]
+	enabled = true
+	delay = 0
+[greeting]
+	shown_greeting = true
+[scripts]
+	enabled = false
+	ide_enabled = false
+	generate_scripts_folder_with_example = false
+[gui_customisation]
+	theme_file_name = "FlatMacDarkLaf"
+	show_dont_send_screenshot_of_gui_notice = false
+	screenshot_of_gui_notice_animated_border = false
+	upload_all_button_font_size = 12
+	request_help_button_font_size = 12
+	simple_mode_button_font_size = 12
+	upload_all_button_foreground_color = "255_255_255"
+	request_help_button_foreground_color = "255_255_255"
+	simple_mode_button_foreground_color = "255_255_255"
+	auto_fix_button_font_size = 12
+	auto_fix_button_foreground_color = "255_255_255"
+	privacy_policy_yes_button_foreground_color = "255_255_255"
+	privacy_policy_no_button_foreground_color = "255_255_255"
+	blinking_button_success_color = "0_201_80"
+	blinking_button_attention_color = "242_154_0"
+	blinking_button_error_color = "251_44_54"
+	modpack_logo_path = "./config/yosbr/config/simplemenu/icon/icon_32x32.png"
+	modpack_logo_large_mode = true

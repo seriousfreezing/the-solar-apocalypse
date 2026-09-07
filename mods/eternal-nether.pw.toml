@@ -1,0 +1,13 @@
+name = "Eternal Nether"
+filename = "EternalNether-v26.1.4-mc26.1.x-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s6R4jmL8/versions/gbIJK317/EternalNether-v26.1.4-mc26.1.x-Fabric.jar"
+hash-format = "sha512"
+hash = "9a2bfe34397154195b1f40695237d9d1f3e67409e46c206a050a087525ffcedca7cd67cad271d7b373b9c8265d712c7f50df2429b4a56064b1de5ab4ed76d4ee"
+
+[update]
+[update.modrinth]
+mod-id = "s6R4jmL8"
+version = "gbIJK317"

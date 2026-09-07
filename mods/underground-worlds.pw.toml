@@ -1,0 +1,13 @@
+name = "Underground Worlds"
+filename = "undergroundworlds-fabric-3.1.3-26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g9fDJQZe/versions/UokObCme/undergroundworlds-fabric-3.1.3-26.1.jar"
+hash-format = "sha512"
+hash = "00e23f80353dac97654ec4321a90c6044d8cd49b4df8974176fa331320199f54342969f418ebe059867fcb73a20ed93fa5bdfea59325b790d84cd01fe775c55a"
+
+[update]
+[update.modrinth]
+mod-id = "g9fDJQZe"
+version = "UokObCme"

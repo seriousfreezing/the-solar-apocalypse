@@ -1,0 +1,13 @@
+name = "Tech Extensions"
+filename = "techextensions-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/So3gzRK5/versions/eB1Jx8sQ/techextensions-2.0.0.jar"
+hash-format = "sha512"
+hash = "7d304b74f678ee622ef17d91109f337828d4e0507e5f330eee4f6c3e91b338546cb2ebcce1dade27f7ee04acbecbfd56d4d0e2b910e14b1b5dee3b1dae6d00af"
+
+[update]
+[update.modrinth]
+mod-id = "So3gzRK5"
+version = "eB1Jx8sQ"

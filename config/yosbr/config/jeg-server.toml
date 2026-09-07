@@ -1,0 +1,14 @@
+[spawns]
+	terrorPhantomMaxChance = 0.01
+	piglinGunnerChance = 0.1
+	witherSkeletonGunnerChance = 0.1
+	phantomGunnerChance = 0.1
+	phantomGunnerMaxChance = 0.1
+	terrorPhantomChance = 0.01
+	skeletonGunnerChance = 0.1
+	huskGunnerChance = 0.01
+	pillagerGunnerMaxChance = 0.1
+	pillagerGunnerChance = 0.1
+	zombifiedPiglinGunnerChance = 0.1
+	zombieGunnerChance = 0.01
+	parchedGunnerChance = 0.01

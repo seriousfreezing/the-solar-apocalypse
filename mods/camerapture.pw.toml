@@ -1,0 +1,13 @@
+name = "Camerapture"
+filename = "camerapture-1.10.14+mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9dzLWnmZ/versions/ctCRkXmr/camerapture-1.10.14%2Bmc26.1.2.jar"
+hash-format = "sha512"
+hash = "2af2fedac1b911620a173c6831d2bc19ed860c3b9fe6f7f02f6e9fba9924897a062f107154e59679fc85d781361a0438fdb1eed5529a06ba23fa4bc9de0fe43f"
+
+[update]
+[update.modrinth]
+mod-id = "9dzLWnmZ"
+version = "ctCRkXmr"
