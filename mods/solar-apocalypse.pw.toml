@@ -1,13 +1,13 @@
 name = "Solar Apocalypse"
-filename = "solar-apocalypse-1.9.21.jar"
+filename = "solar-apocalypse-1.9.22.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wkKhe1pU/versions/H7Qxn4fK/solar-apocalypse-1.9.21.jar"
+url = "https://cdn.modrinth.com/data/wkKhe1pU/versions/AJbLtAnd/solar-apocalypse-1.9.22.jar"
 hash-format = "sha512"
-hash = "a406c9d1b7b0af03ca45141e92655930ecc7cdb77a76cde95bcf403e7f20f962b98d6a854270ee524657d59109519b99c256f021f638af76b1db5e4626d22c2f"
+hash = "f3f6d822c919f6ec8292909b8cc1cbdcbcdfe3da9e7ea932a4046482a26686f89511d3245d23407d411f55ec16817977ee37e5281103c62f2e7da968f1c26430"
 
 [update]
 [update.modrinth]
 mod-id = "wkKhe1pU"
-version = "H7Qxn4fK"
+version = "AJbLtAnd"

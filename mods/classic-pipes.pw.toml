@@ -1,13 +1,13 @@
 name = "Classic Pipes"
-filename = "classicpipes-fabric-26.1.2-1.1.6.jar"
+filename = "classicpipes-fabric-26.2-1.1.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xX5VOqpH/versions/fsuORs8W/classicpipes-fabric-26.1.2-1.1.6.jar"
+url = "https://cdn.modrinth.com/data/xX5VOqpH/versions/5IRtOFZj/classicpipes-fabric-26.2-1.1.7.jar"
 hash-format = "sha512"
-hash = "afcb452613ade997a16ecc95be121728aea1a3b8c4a7ad7a2b11918e9b4e5d45f2b7358cf50e66fbaa84d12ef9a78d4d68a25b68f87bca7f6d7c7df104301e4e"
+hash = "6bef3911732da07d60dddf764d9dd671eb1b50713855a3748f103461ca9fff60e199d84e3352032cac5f6d1ef7ec465ba556e3bfa84f81325380d79e1882a555"
 
 [update]
 [update.modrinth]
 mod-id = "xX5VOqpH"
-version = "fsuORs8W"
+version = "5IRtOFZj"

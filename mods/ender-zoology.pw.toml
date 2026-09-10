@@ -1,13 +1,13 @@
 name = "Ender Zoology"
-filename = "EnderZoology-v26.1.0-mc26.1.x-Fabric.jar"
+filename = "EnderZoology-v26.2.0-mc26.2.x-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CUQhzQjg/versions/XBuMd0Yd/EnderZoology-v26.1.0-mc26.1.x-Fabric.jar"
+url = "https://cdn.modrinth.com/data/CUQhzQjg/versions/ZH7vZ3hL/EnderZoology-v26.2.0-mc26.2.x-Fabric.jar"
 hash-format = "sha512"
-hash = "40fd42a8b84b93d4c7f044d18cd9f8d12971e547b8c7749a02abcdef6ee1063fe3a99272b91316d5cf75ef2dc60c6745b080da7322e12a6adab551ee06b7ceb1"
+hash = "3acde01e285c280691f0bcd6d97b52f7dd399dcb92473da38084de1bbfead388ef62f92a2c1955b88bace6e110d61f131ba09f00170f3432cb6e22226ec1fba7"
 
 [update]
 [update.modrinth]
 mod-id = "CUQhzQjg"
-version = "XBuMd0Yd"
+version = "ZH7vZ3hL"

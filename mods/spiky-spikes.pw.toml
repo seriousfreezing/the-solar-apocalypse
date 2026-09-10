@@ -1,13 +1,13 @@
 name = "Spiky Spikes"
-filename = "SpikySpikes-v26.1.0-mc26.1.x-Fabric.jar"
+filename = "SpikySpikes-v26.2.0-mc26.2.x-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DUaLBLVL/versions/s6YT2zdi/SpikySpikes-v26.1.0-mc26.1.x-Fabric.jar"
+url = "https://cdn.modrinth.com/data/DUaLBLVL/versions/GzAeiD3v/SpikySpikes-v26.2.0-mc26.2.x-Fabric.jar"
 hash-format = "sha512"
-hash = "c534a91b6e6bb4b85c1f19e14a2429f1e8300ea389f1be96c2ad23022ead731477260ad6182c320879b62f78daf39aa2863de2859f7743d60d4bcb955682466a"
+hash = "a55cc794fe5e1d2bc5a7ee93e4b3798f1ce76c5a6895db27db08c7315c464373fbd9a4a09013bafef9ddf1c86c71645179e3a56a4052934e2a44427e0b4d126e"
 
 [update]
 [update.modrinth]
 mod-id = "DUaLBLVL"
-version = "s6YT2zdi"
+version = "GzAeiD3v"

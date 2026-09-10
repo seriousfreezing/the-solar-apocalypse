@@ -1,13 +1,13 @@
 name = "Cooking for Blockheads"
-filename = "cookingforblockheads-fabric-26.1.2-26.1.2.3.jar"
+filename = "cookingforblockheads-fabric-26.2-26.2.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vJnhuDde/versions/Kh8kP747/cookingforblockheads-fabric-26.1.2-26.1.2.3.jar"
+url = "https://cdn.modrinth.com/data/vJnhuDde/versions/MoxcSbZG/cookingforblockheads-fabric-26.2-26.2.0.4.jar"
 hash-format = "sha512"
-hash = "b52ec04aba46d8899be1299713771ac6438b6269a21b207eb89fd800f8e10a0d97485faee30697554c24492346757688a85a8ead38a5694612bcd72a513c0322"
+hash = "2df29fc2f2bad4ae5c62addcbc9997a221f13334ff59b6e2a1b615ba1062524b5a10ba6ee34e920bb49fccf524ec95f3b3c5ed71061c4814b2f13aca86825f6f"
 
 [update]
 [update.modrinth]
 mod-id = "vJnhuDde"
-version = "Kh8kP747"
+version = "MoxcSbZG"

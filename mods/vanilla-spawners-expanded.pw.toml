@@ -3,11 +3,11 @@ filename = "vanilla_spawners_expanded-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/oyz0MmAu/versions/58Xu4g0e/vanilla_spawners_expanded-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/oyz0MmAu/versions/OlHHdPmi/vanilla_spawners_expanded-1.2.0.jar"
 hash-format = "sha512"
-hash = "52ae4910be0e5c2a85187c3090ccf9343806116ec99ceaf29d0d090da3bb56cd5bd7351306815d6b2ec4b720645f47d601e38488a5e9c507955d1c767d586d49"
+hash = "97966e88c7b7ab1861f4e4fdca006f3fab028893c49107594c673ec117ddb91d70282993f9912816b4043bb7795ff49f6b267c5f67743a9fecc1c726d2cea94e"
 
 [update]
 [update.modrinth]
 mod-id = "oyz0MmAu"
-version = "58Xu4g0e"
+version = "OlHHdPmi"

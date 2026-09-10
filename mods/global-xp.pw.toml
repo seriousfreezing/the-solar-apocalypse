@@ -1,13 +1,13 @@
 name = "Global XP"
-filename = "globalxp-fabric-26.1.1-1.13.jar"
+filename = "globalxp-fabric-26.2-1.13.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bSkHUVQQ/versions/hc6aczMI/globalxp-fabric-26.1.1-1.13.jar"
+url = "https://cdn.modrinth.com/data/bSkHUVQQ/versions/gvfWADGy/globalxp-fabric-26.2-1.13.jar"
 hash-format = "sha512"
-hash = "bc0c4b50d854b2d4cbce0ff96e8dd1be866c3c4a07ba75610e7bc5bac89c944c54af9f8ce74cb5d60fde4b2ba49b875d5acec99abcdc5558325c13f16e38a319"
+hash = "198024f07c50fc63587e19ad0ac45e494352f0bb4617c201833488302c399ba2d7d7359cc53a5da0d775890c07fc47358788c0ff6d78cfe524bfae58c16195a2"
 
 [update]
 [update.modrinth]
 mod-id = "bSkHUVQQ"
-version = "hc6aczMI"
+version = "gvfWADGy"

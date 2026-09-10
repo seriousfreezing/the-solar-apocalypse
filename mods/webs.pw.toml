@@ -1,13 +1,13 @@
 name = "Web"
-filename = "web-1.0.5-26.1.x.jar"
+filename = "web-1.0.6-26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/y6IaGCHf/versions/484KsCBk/web-1.0.5-26.1.x.jar"
+url = "https://cdn.modrinth.com/data/y6IaGCHf/versions/ubdmDhzE/web-1.0.6-26.2.jar"
 hash-format = "sha512"
-hash = "907a9bd211a7a0ddbb9d9814b288cf3e9de4fbc17a8d50085e4a7dbf7081eb2742bff20487a33316c48e3790c1af723f0f7153359db9d87c60be5e4fa1b1944b"
+hash = "5c903adeb8fcac2b2a4b1f5dbf42af46abf380c8c6cc3756ed3fee9a1211298e4cb04b836433bbbb3d8404b6f7e71bc84ae8b7d3a26cbf761cab36a8acc3e3a1"
 
 [update]
 [update.modrinth]
 mod-id = "y6IaGCHf"
-version = "484KsCBk"
+version = "ubdmDhzE"

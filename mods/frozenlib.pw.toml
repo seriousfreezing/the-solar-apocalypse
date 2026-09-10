@@ -1,13 +1,13 @@
 name = "FrozenLib"
-filename = "FrozenLib-2.4.4-mc26.1.jar"
+filename = "FrozenLib-2.5.3-mc26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9KawNmQc/versions/JjJtEhgO/FrozenLib-2.4.4-mc26.1.jar"
+url = "https://cdn.modrinth.com/data/9KawNmQc/versions/Ak4sHFuc/FrozenLib-2.5.3-mc26.2.jar"
 hash-format = "sha512"
-hash = "3da515511d49f50dbb66f6fc4c013c2712b5f697747636cfb90ed83b260b0d628c3355d72b614f2ff4342b3c7b32aa4f6f6245ccd2245b4a6cc605dff39b9612"
+hash = "e41ce242c16ee7a79350fb2eea3b09a7ca51afbc2eaebd452680aab9da4d9e26b6195248d08f44aa6726d955f2cf39cda5f926ac77cf96ad3029fb836f4b92f1"
 
 [update]
 [update.modrinth]
 mod-id = "9KawNmQc"
-version = "JjJtEhgO"
+version = "Ak4sHFuc"

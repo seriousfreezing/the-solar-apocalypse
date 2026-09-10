@@ -1,13 +1,13 @@
 name = "Laser Bridges & Doors"
-filename = "laserbridges-26.1.2-fabric-6.jar"
+filename = "laserbridges-26.2-fabric-6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wz31BboV/versions/TQrdORIC/laserbridges-26.1.2-fabric-6.jar"
+url = "https://cdn.modrinth.com/data/wz31BboV/versions/P5k7oCMn/laserbridges-26.2-fabric-6.jar"
 hash-format = "sha512"
-hash = "34a16d78656ca90a933996acc269cc43a19971a96a0679d45c6469765d9eedbf9805b5d935dc1a7d4da37e243e5e84e5d940ddd91b33967191dec790241a3aa3"
+hash = "7c1b7d39d65420a3a98aa317ae00aee28c190849993894ae436462ad9d9a2f887b6d7b37d88828647892a406d44f42e66d288bacea034c59574948d664ed0550"
 
 [update]
 [update.modrinth]
 mod-id = "wz31BboV"
-version = "TQrdORIC"
+version = "P5k7oCMn"

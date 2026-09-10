@@ -1,0 +1,13 @@
+name = "Spider Overhaul"
+filename = "SpiderOverhaul-0.0.6-Fabric-v26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jEnrr5I7/versions/jYsPQyJt/SpiderOverhaul-0.0.6-Fabric-v26.2.jar"
+hash-format = "sha512"
+hash = "5941245058f10bc3ef05b4d38a6ade6827a59e755a563b7cadd70d8aa1905c446ec417727cc33271c77a213b204e12d13699bfd36db90698e4af5c2c0269928f"
+
+[update]
+[update.modrinth]
+mod-id = "jEnrr5I7"
+version = "jYsPQyJt"
