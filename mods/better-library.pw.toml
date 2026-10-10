@@ -1,13 +1,13 @@
 name = "Better Library"
-filename = "better_lib-fabric-26.1-2.1.1.jar"
+filename = "better_lib-fabric-26.1-2.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2x0ULgTj/versions/nSxpNb5i/better_lib-fabric-26.1-2.1.1.jar"
+url = "https://cdn.modrinth.com/data/2x0ULgTj/versions/G7RtOOFX/better_lib-fabric-26.1-2.1.2.jar"
 hash-format = "sha512"
-hash = "b00d1762c1d2d925adc318981c6268c3a42df54954023b2e8a8fd100e50fe4eec98cd9a15683599db26ecf572b24a11c099417dd346bd53040d3ea52da83dde4"
+hash = "4e9fc59aed5db2e4fc08b5a7a35e5e5d85f67ca28d86f2aacbcdc9a30e4c096941a35390fd22a6c98ddf366d6d0f06409ceeee722bdaa27bf4ea725dbad1488f"
 
 [update]
 [update.modrinth]
 mod-id = "2x0ULgTj"
-version = "nSxpNb5i"
+version = "G7RtOOFX"

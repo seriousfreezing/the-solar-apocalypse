@@ -1,13 +1,13 @@
 name = "Open Together"
-filename = "OpenTogether-v26.2.1-mc26.2.x-Fabric.jar"
+filename = "OpenTogether-v26.2.2-mc26.2.x-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ssyvO6WG/versions/G1hEC7OY/OpenTogether-v26.2.1-mc26.2.x-Fabric.jar"
+url = "https://cdn.modrinth.com/data/ssyvO6WG/versions/M8MqPzNu/OpenTogether-v26.2.2-mc26.2.x-Fabric.jar"
 hash-format = "sha512"
-hash = "f2e675730cd791fadb82cc001d8b973d61ea1db113595abb16780f6e994a535feed7f8a031c567c366f2f23872b0ca55a01787607268e5da824e010402052a46"
+hash = "0eeaca0de0df942f03a927903a1906c192fbd4864ae97bf14054d8531bcebf0daf155fd0b4c0aa62cf6cfd344997834110b70de9b6f3f3ad54c551e9ecba6409"
 
 [update]
 [update.modrinth]
 mod-id = "ssyvO6WG"
-version = "G1hEC7OY"
+version = "M8MqPzNu"

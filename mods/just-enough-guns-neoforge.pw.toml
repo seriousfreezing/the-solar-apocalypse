@@ -1,13 +1,13 @@
 name = "Just Enough Guns New"
-filename = "jegn-1.8.0+fabric26.2.jar"
+filename = "jegn-1.8.2+fabric26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dxTydNDF/versions/URjNSy7U/jegn-1.8.0%2Bfabric26.2.jar"
+url = "https://cdn.modrinth.com/data/dxTydNDF/versions/nGEproD6/jegn-1.8.2%2Bfabric26.2.jar"
 hash-format = "sha512"
-hash = "dcba7815dff7c55a56261cb23861bd3121192ab9748237b4941937dbfd4e52913598fc6c525ee027aee6b719ae9ed8f6a94a9e01c645bbb0ba4cb70f30bf895b"
+hash = "265ca3230b61b9db56311437ba1f7a9b9bb0ac05cd39253e8cbc97831ed43084086a2398eac4040fa57a26a725b4eccf157b75aacf476a785ec8937dfca877f3"
 
 [update]
 [update.modrinth]
 mod-id = "dxTydNDF"
-version = "URjNSy7U"
+version = "nGEproD6"

@@ -1,0 +1,13 @@
+name = "Create: Fluid Burner"
+filename = "createfluidburner-fabric-26.1.2-1.26.6.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/kmVLG7Nf/versions/qGf5TIKn/createfluidburner-fabric-26.1.2-1.26.6.2.jar"
+hash-format = "sha512"
+hash = "6ee6d56f6ce5aec6be6d0cf67c43d4a47789818595ebcb391c08dbe689f7a34badf4168a7499b3917d117b3c3a9c6675a84d22d27ca29733d83bc8e65ef89d0e"
+
+[update]
+[update.modrinth]
+mod-id = "kmVLG7Nf"
+version = "qGf5TIKn"

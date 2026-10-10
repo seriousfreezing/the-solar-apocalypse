@@ -1,13 +1,13 @@
 name = "More Than Apples"
-filename = "more-than-apples-26.2-1.3.0.jar"
+filename = "more-than-apples-26.2-1.3.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1UmRnvYX/versions/gJRcyOaV/more-than-apples-26.2-1.3.0.jar"
+url = "https://cdn.modrinth.com/data/1UmRnvYX/versions/RieGsmpj/more-than-apples-26.2-1.3.2.jar"
 hash-format = "sha512"
-hash = "93e228b10ffa5fa9789508117804d6f84011726e8407d7934af9066ab8f7559ad86d9b39343cd3646ec78267ecab1ce5bcec8711a579857eb7e56e57c95a73c5"
+hash = "9615d1f1afddd301de8c8c889be2b1089ab8bb5185058da94d2a7dcac55dd4ed27de868adc768ee7bc7089b4adb89ac368a0eb83c1dd2ef9256e76e51a2245b8"
 
 [update]
 [update.modrinth]
 mod-id = "1UmRnvYX"
-version = "gJRcyOaV"
+version = "RieGsmpj"
