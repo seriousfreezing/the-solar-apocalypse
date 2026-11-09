@@ -1,13 +1,13 @@
 name = "Spider Overhaul"
-filename = "SpiderOverhaul-0.0.6-Fabric-v26.2.jar"
+filename = "SpiderOverhaul-0.1.0-Fabric-v26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jEnrr5I7/versions/jYsPQyJt/SpiderOverhaul-0.0.6-Fabric-v26.2.jar"
+url = "https://cdn.modrinth.com/data/jEnrr5I7/versions/RHjBcfGT/SpiderOverhaul-0.1.0-Fabric-v26.2.jar"
 hash-format = "sha512"
-hash = "5941245058f10bc3ef05b4d38a6ade6827a59e755a563b7cadd70d8aa1905c446ec417727cc33271c77a213b204e12d13699bfd36db90698e4af5c2c0269928f"
+hash = "71b16a697ef902eeb8727c40710275534de4ee6753fb0d8bbe7d25650cc718e04b8f6c3d1a66cbbf9371235a73854ca562f4a2ddefc5c47602433d97c0465fc5"
 
 [update]
 [update.modrinth]
 mod-id = "jEnrr5I7"
-version = "jYsPQyJt"
+version = "RHjBcfGT"
